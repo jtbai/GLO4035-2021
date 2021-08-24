@@ -70,6 +70,7 @@ highlightTheme: "darkula"
 * Plateforme : Zoom Live
     * Toujours le même lien
     * Lien du vidéo sauvegardé ajouté durant la semaine
+
 ---
 
 ## Déroulement de la session
@@ -224,6 +225,13 @@ Pas de panique
 * Git
 
 ---
+
+## Pourquoi les BDs ?
+
+
+---
+
+
 
 ## Conclusion
 
