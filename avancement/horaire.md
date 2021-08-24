@@ -7,7 +7,7 @@
  3 |	14 sept	|	Mongo 1 + 2	|	Index		|CHAP 3	|	TP1	|	FIN ÉQUIPE
  4 |	21 sept	|	Index	|	Neo4J		|CHAP 2 (fin)		|	|	D1
  5 |	28 sept	|	Neo4J		|WareHousing		|	|	|		TP1
- REMISE EXAM	| 4 oct	|					
+ | 4 oct	| JT remet l'examen à la faculté |					
  6 |	5 oct	|	WareHousing |	Préparer Question	| CHAP 3 (fin)	||	FORMATIVE
  7 |	12 oct	|	Revision				
  EXAM |	16 oct	|	|	|			
