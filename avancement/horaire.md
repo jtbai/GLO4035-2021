@@ -10,7 +10,7 @@
  6 |	5 oct	|	WareHousing |		|   BD:Chap1    |   |	
  | 10 oct	| JT remet l'examen à la faculté |  ||  | |FORMATIVE	
  7 |	12 oct	|	Lambda Arch |	Préparer Question			
- 8 |	19 oct	|	Revision|	|		
+ 8 |	19 oct	|	Préparation Examen |	|		
  EXAM |	24 oct	|	|	|			
  9 |	26 oct	|LECTURE			
  10 |	2 nov	| Retour Mi-Session	 |	ES1	| 	| TP 3 | 
