@@ -3,7 +3,7 @@
 |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|
 | Semaine	| Date	| THEME  LIVE	| A FAIRE	| LECTURE	| PRÉSENTATION	| REMISE |
- 1 |	31 août sept 	| Intro		|NoSQL	|	CHAP 1			|
+ 1 |	31 août 	| Intro		|NoSQL	|	CHAP 1			|
  2 |	7 sept	|	NoSQL	|	Mongo 1 + 2		|CHAP 2		|D1 + FORMATIVE	
  3 |	14 sept		|	Mongo 1 + 2	|	Index		|CHAP 3	|	TP1	|	FIN ÉQUIPE
  4 |	21 sept		|	Index	|	Neo4J		|CHAP 2 (fin)		|	|	D1
