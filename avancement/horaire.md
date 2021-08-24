@@ -5,11 +5,11 @@
  1 |	31 août	| Intro		|NoSQL	|	CHAP 1			|
  2 |	7 sept	|	NoSQL	|	Mongo 1 + 2		|CHAP 2		|D1 + FORMATIVE	
  3 |	14 sept	|	Mongo 1 + 2	|	Index		|CHAP 3	|	TP1	|	FIN ÉQUIPE
- 4 |	21 sept	|	Index	|	Neo4J		|CHAP 2 (fin)		| D2	|	D1
- 5 |	28 sept	|	Neo4J		|WareHousing		|   CHAP 3 (fin)	|	|		TP1
- 6 |	5 oct	|	WareHousing |		|   BD:Chap1    |   |	D2
+ 4 |	21 sept	|	Index	|	Neo4J		|CHAP 2 (fin)		| 	|	D1
+ 5 |	28 sept	|	Neo4J		|WareHousing		|   CHAP 3 (fin)	|  D2	|		TP1
+ 6 |	5 oct	|	WareHousing |		|   BD:Chap1    |   |	
  x   | 10 oct	| JT remet l'examen à la faculté |  |  | |FORMATIVE	
- 7 |	12 oct	|	Lambda Arch |	Préparer Question			
+ 7 |	12 oct	|	Lambda Arch |	Préparer Question	|   |   |   D2		
  8 |	19 oct	|	Préparation Examen |	|		
  EXAM |	24 oct	|	|	|			
  9 |	26 oct	|LECTURE			
