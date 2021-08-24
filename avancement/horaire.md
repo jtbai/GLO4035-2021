@@ -8,7 +8,7 @@
  4 |	21 sept	|	Index	|	Neo4J		|CHAP 2 (fin)		|	|	D1
  5 |	28 sept	|	Neo4J		|WareHousing		|   CHAP 3 (fin)	|	|		TP1
  6 |	5 oct	|	WareHousing |		|   BD:Chap1    |   |	
- | 10 oct	| JT remet l'examen à la faculté |  ||  | |FORMATIVE	
+    | 10 oct	| JT remet l'examen à la faculté |  |  | |FORMATIVE	
  7 |	12 oct	|	Lambda Arch |	Préparer Question			
  8 |	19 oct	|	Préparation Examen |	|		
  EXAM |	24 oct	|	|	|			
