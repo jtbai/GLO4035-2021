@@ -64,8 +64,8 @@ highlightTheme: "darkula"
 
 * Pédagogie inversée
     * Capsules en ligne - ~1h
-    * Travail à faire chez soi - ~1h
     * Retour en live hebdomadaire - ~1h
+    * Microlabo en sous groupe - ~1h
 
 * Plateforme : Zoom Live
     * Toujours le même lien
@@ -160,14 +160,13 @@ Pas de panique
 
 ## Présentation orales
 
-* Format à distance au choix
-    * Enregistrement ou Live
+* Format à distance: Live
+  * Style: Micro conférence
 * Thème au choix dans ma liste
     * premier arrivé, premier servi
 * ~20 minutes
     * Présentation et Démonstration
 * Correction par les pairs
-* Correction par un panel d'experts
 
 ---
 
@@ -227,7 +226,6 @@ Pas de panique
 ---
 
 ## Pourquoi les BDs ?
-
 
 ---
 

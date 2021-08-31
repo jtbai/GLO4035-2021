@@ -2,7 +2,7 @@
 Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Avancement session
-* [Semaine 1](avancement/semaine-01.pdf)
+* [Semaine 1](avancement/Avancement Session - Semaine 01.pdf)
 
 ## Live
 * [Semaine Courante](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09)  
