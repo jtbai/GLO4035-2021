@@ -17,10 +17,11 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 <!-- ### Formative
 [Devoir 3](devoir/devoir3.py)
  -->
+* [Ponderation](evaluation/ponderation.md)  
 
 ### Projet
 * [Velo épicurien](evaluation/projet_ingenierie.md)  
-* [Ponderation](evaluation/ponderation.md)  
+
 * [Barème](https://docs.google.com/spreadsheets/d/18qU0XgY-uqfECFpx90qccWpm86i5AqQGzhfpBZtuarw/edit?usp=sharing){:target="_blank"}  
 
 <!-- * [Évaluation - Requêtes - Remise 2 & 3](evaluation/velo_epicurien_request_remise2-3.json) -->
