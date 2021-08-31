@@ -5,8 +5,10 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Semaine 1](avancement/Avancement Session - Semaine 01.pdf)
 
 ## Live
-* [Semaine Courante](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09)  
-<!-- * [Semaine 1 - Intro](){:target="_blank"}   -->
+* [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
+* 
+* [Semaine 1 - Bienvenue (Code secret: F1.nnOqz)](https://ulaval.zoom.us/rec/share/1ecYsmTwqDlnLCdE8j_iL8Mie3ExJHheCKwC48ZlUy4fRbPY0_STjpcM0yCHs6bV.qBaUFgZDMNK_vjWY){:target="_blank"}
+
 
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
