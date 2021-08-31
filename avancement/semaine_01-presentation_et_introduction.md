@@ -48,6 +48,7 @@ highlightTheme: "darkula"
 * Méthode pédagogique
 * Évaluations
 * Matériel 
+* Pitch de vente
 
 ---
 
@@ -147,7 +148,7 @@ Pas de panique
 ## Projet de session
 
 * Équipe de 3
-* Date limite pour faire les équipes : 15 septembre
+* Date limite pour faire les équipes : 14 septembre
 * 10% pour la contribution au projet
 * Gestion des coéquipiers problématiques
     * Un leader trouve le meilleur de tous

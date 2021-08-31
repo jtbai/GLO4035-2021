@@ -32,6 +32,14 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Matière
 
+### Desing d'application
+* **Lecture**
+  * DDIA: Chapitre 1 
+  
+* **Capsules**
+  * [Introduction aux BD avancées](https://youtu.be/7lwjnHQb0TQ){:target="_blank"}  
+
+
 ## Mise en place techno
 * [Mise en place - VM + Docker](https://youtu.be/RFxvC6cd7eI){:target="_blank"}  
 * [Presentation Docker](https://youtu.be/iexpQnSj1X4){:target="_blank"}  
