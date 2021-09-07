@@ -15,12 +15,15 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Code Source](https://github.com/jtbai/question_bank) -->
 
 ## Évaluations
-[Devoir 1](devoir/devoir1.js)
-<!-- ### Formative
-[Devoir 3](devoir/devoir3.py)
- -->
-* [Ponderation](evaluation/ponderation.md)  
 
+[Ponderation](evaluation/ponderation.md)  
+
+### Devoir
+* [Devoir 1](devoir/devoir1.js)
+
+### Préparation Examen (Formative)
+* [Vos questions d'examens](evaluation/formative.md)
+ 
 ### Projet
 * [Velo épicurien](evaluation/projet_ingenierie.md)  
 * [Barème](https://docs.google.com/spreadsheets/d/18qU0XgY-uqfECFpx90qccWpm86i5AqQGzhfpBZtuarw/edit?usp=sharing){:target="_blank"}  
