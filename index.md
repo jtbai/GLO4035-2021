@@ -9,7 +9,6 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
 * [Semaine 1 - Bienvenue (Code secret: F1.nnOqz)](https://ulaval.zoom.us/rec/share/1ecYsmTwqDlnLCdE8j_iL8Mie3ExJHheCKwC48ZlUy4fRbPY0_STjpcM0yCHs6bV.qBaUFgZDMNK_vjWY){:target="_blank"}
 
-
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
 * [Code Source](https://github.com/jtbai/question_bank) -->
@@ -40,6 +39,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ### Desing d'application
 * **Lecture**
   * DDIA: Chapitre 1 
+  * DDIA: Chapitre 2
+    * Relational Model Versus Document Model
   
 * **Capsules**
   * [Introduction aux BD avancées](https://youtu.be/7lwjnHQb0TQ){:target="_blank"}  
