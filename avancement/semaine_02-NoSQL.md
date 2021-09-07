@@ -45,6 +45,17 @@ highlightTheme: "darkula"
 ## Aujourd'hui
 
 * Microlabo
-<!-- * Aide pour labo 1 et 2 -->
 * Présentation Évaluation Formative
 * Présentation Devoir 1
+
+---
+
+## Microlabo
+
+---
+
+## Évaluation Formative
+
+---
+
+## Devoir 1
