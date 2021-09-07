@@ -1,6 +1,6 @@
 // Vous êtes à la recherche d'une maison, mais les webapp et les interfaces graphiques vous donnent mal au coeur!
 //////////////////////////////////
-//// Il vous dit d'éxécuter les lignes suivantes:
+//// Votre tsi chum Hackerman vous dit d'éxécuter les lignes suivantes:
 // docker stop mongo_devoir1
 // docker system prune -f
 // docker run -d --name mongo_devoir1 mongo:4.2
