@@ -3,10 +3,10 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Avancement session
 * [Semaine 1](avancement/Avancement Session - Semaine 01.pdf)
+* [Semaine 2](avancement/Avancement Session - Semaine 02.pdf)
 
 ## Live
 * [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
-* 
 * [Semaine 1 - Bienvenue (Code secret: F1.nnOqz)](https://ulaval.zoom.us/rec/share/1ecYsmTwqDlnLCdE8j_iL8Mie3ExJHheCKwC48ZlUy4fRbPY0_STjpcM0yCHs6bV.qBaUFgZDMNK_vjWY){:target="_blank"}
 
 
@@ -15,7 +15,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Code Source](https://github.com/jtbai/question_bank) -->
 
 ## Évaluations
-
+[Devoir 1](devoir/devoir1.js)
 <!-- ### Formative
 [Devoir 3](devoir/devoir3.py)
  -->
@@ -23,7 +23,6 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ### Projet
 * [Velo épicurien](evaluation/projet_ingenierie.md)  
-
 * [Barème](https://docs.google.com/spreadsheets/d/18qU0XgY-uqfECFpx90qccWpm86i5AqQGzhfpBZtuarw/edit?usp=sharing){:target="_blank"}  
 
 <!-- * [Évaluation - Requêtes - Remise 2 & 3](evaluation/velo_epicurien_request_remise2-3.json) -->
@@ -41,6 +40,29 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
   
 * **Capsules**
   * [Introduction aux BD avancées](https://youtu.be/7lwjnHQb0TQ){:target="_blank"}  
+
+
+### Mongo DB
+* **Capsules** 
+  * [MongoDB - CRUD](https://www.youtube.com/watch?v=7Q9DW_-8GnY){:target="_blank"}  
+  * [MongoDB - Requêtes avancées](https://www.youtube.com/watch?v=iKDONxl1yZo){:target="_blank"}   
+  <!-- * [Indexation Mongo DB](https://youtu.be/qehNybvz3lQ){:target="_blank"}     -->
+  <!-- * [Index Géospatial Mongo DB](https://youtu.be/ageuBJ7w6t0){:target="_blank"}   -->
+  <!-- * [MongoDB - Aggregation](https://youtu.be/p2335pziSAA){:target="_blank"}   -->
+  <!-- * [MongoDB - Sécurité](https://youtu.be/bpYNtaAtj0o){:target="_blank"}   -->
+  <!-- * [MongoDB - Replication](https://youtu.be/YXAfZ8dJ3Us){:target="_blank"}   -->
+  <!-- * [MongoDB - Fragmentation](https://youtu.be/PA47LIpuVds){:target="_blank"}   -->
+
+  <!-- * **Labo** -->
+  <!-- * Labo 1: Professeurs Université -->
+  <!-- * Labo 2: Cours Université -->
+  <!-- * Labo 3: Commerces campus -->
+
+## Exercices
+
+### Étude de cas: Modéliser votre Nextflix
+  * [Présentation des cas](https://youtu.be/yyWzsjuJvdk)
+
 
 
 ## Mise en place techno
