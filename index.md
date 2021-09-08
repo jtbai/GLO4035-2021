@@ -8,6 +8,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Live
 * [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
 * [Semaine 1 - Bienvenue (Code secret: F1.nnOqz)](https://ulaval.zoom.us/rec/share/1ecYsmTwqDlnLCdE8j_iL8Mie3ExJHheCKwC48ZlUy4fRbPY0_STjpcM0yCHs6bV.qBaUFgZDMNK_vjWY){:target="_blank"}
+* [Semaine 2 - No SQL (Code secret: .+4N7gGv)](https://ulaval.zoom.us/rec/share/-u2DuuQUObZ19MI55aoZCi84Cw7CE9fnbAbEGSS5NnhQ_4kvTD3MlNJ4std0_39d.CurlRJjJhNhHkp9q){:target="_blank"}
+ 
 
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
