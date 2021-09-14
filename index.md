@@ -4,6 +4,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Avancement session
 * [Semaine 1](avancement/Avancement Session - Semaine 01.pdf)
 * [Semaine 2](avancement/Avancement Session - Semaine 02.pdf)
+* [Semaine 3](avancement/Avancement Session - Semaine 03.pdf)
 
 ## Live
 * [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
