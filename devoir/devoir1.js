@@ -8,6 +8,7 @@
 //////////////////////////////////
 // vous utilisez votre grande expertise de MongoBD pour trouver la maison de vos rêves.
 // Les critères données aux questions suivantes sont CUMULATIFS! 
+// Par exemple, les critères de la question 4 comprennent aussi ceux de la question 3 et ainsi de suite !
 //////
 // Pour valider vos réponses, une formule de hashing vous sera donnée
 // par exemple MD5(Q2 * Q3) signifie : On passe dans un hash md5 le produit de la réponse à la Q2 et celle de la Q3, 
