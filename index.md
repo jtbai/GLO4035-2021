@@ -58,7 +58,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 * **Capsules**
   * [Données Géographique et Textuelles](https://youtu.be/ySk6abWu_BA){:target="_blank"}  
-  * [Graphe Attribué](https://youtu.be/gk1O3WNc6io){:target="_blank"} 
+  <!-- * [Graphe Attribué](https://youtu.be/gk1O3WNc6io){:target="_blank"}  -->
   * [Index (BTree + RTree)](https://youtu.be/Ym-cDh6pEjQ){:target="_blank"}  
   * [Index (LSM TREE)](https://youtu.be/0OWWE6UyIg8){:target="_blank"}  
   <!-- * [Warehousing](https://youtu.be/vI4BsigwDyg){:target="_blank"}   -->

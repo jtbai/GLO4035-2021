@@ -31,7 +31,7 @@ maison = db['devoir1']
 print("#Q0")
 
 
-// 1. Quel champ de la base de données contient un index géospatial?
+// 1. Quel champ de la base de données contient un index géospatial? Je cherche une chaîne de caractère et vous devez l'obtenir avec une requete!
 print("#Q1")
 
 // 2. Combien de maisons à vendre y a-t-il dans un rayon de 10km de votre emplacement actuel?
@@ -65,7 +65,7 @@ print("#Q7")
 
 
 // 8. Comme vous savez que vous allez faire beaucoup de $$$ dans le futur, vous décidez d'hypothéquer votre vie avec la maison la plus chère du lot.
-// Combien coute-t-elle ? (je désire le prix de la base de données - et non pas celle du site!)
+// Combien coute-t-elle ? (je désire le prix de la base de données - et non pas celle du site!) (format attendu: XXX XXX $)
 // MD5(Q8 * Q6) = 6d3edda874581ee340d5a1bd9adad5b9 (uniquement les 6 chiffre de la Q8)
 print("#Q8")
 
