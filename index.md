@@ -1,4 +1,4 @@
-# Bases de données avancées - GLO-4035 et GLO-7035
+ ..# Bases de données avancées - GLO-4035 et GLO-7035
 Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Avancement session
@@ -10,7 +10,11 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
 * [Semaine 1 - Bienvenue (Code secret: F1.nnOqz)](https://ulaval.zoom.us/rec/share/1ecYsmTwqDlnLCdE8j_iL8Mie3ExJHheCKwC48ZlUy4fRbPY0_STjpcM0yCHs6bV.qBaUFgZDMNK_vjWY){:target="_blank"}
 * [Semaine 2 - No SQL (Code secret: .+4N7gGv)](https://ulaval.zoom.us/rec/share/-u2DuuQUObZ19MI55aoZCi84Cw7CE9fnbAbEGSS5NnhQ_4kvTD3MlNJ4std0_39d.CurlRJjJhNhHkp9q){:target="_blank"}
+* [Semaine 3 - Mongo DB (Code secret: 11&2In7$)](https://ulaval.zoom.us/rec/share/UgRS4FCyYtvgvWxyreBn9-x8RSDinW3yGEEaL_trSOvHlz0PDOl3eoyn_dw3eBEb.TvAhTueWEZ6TlMN3){:target="_blank"}
+
  
+
+
 ### Ammorce
 * [Semaine 1](https://youtu.be/rkgPTYlbXCg){:target="_blank"}
 
