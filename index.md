@@ -12,7 +12,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Semaine 1 - Bienvenue (Code secret: F1.nnOqz)](https://ulaval.zoom.us/rec/share/1ecYsmTwqDlnLCdE8j_iL8Mie3ExJHheCKwC48ZlUy4fRbPY0_STjpcM0yCHs6bV.qBaUFgZDMNK_vjWY){:target="_blank"}
 * [Semaine 2 - No SQL (Code secret: .+4N7gGv)](https://ulaval.zoom.us/rec/share/-u2DuuQUObZ19MI55aoZCi84Cw7CE9fnbAbEGSS5NnhQ_4kvTD3MlNJ4std0_39d.CurlRJjJhNhHkp9q){:target="_blank"}
 * [Semaine 3 - Mongo DB (Code secret: 11&2In7$)](https://ulaval.zoom.us/rec/share/UgRS4FCyYtvgvWxyreBn9-x8RSDinW3yGEEaL_trSOvHlz0PDOl3eoyn_dw3eBEb.TvAhTueWEZ6TlMN3){:target="_blank"}
-
+* [Semaine 4 - Indexation (Code secret: C..mvJ.9)](https://ulaval.zoom.us/rec/share/xtf-CEyPWJhBkdMgTdMl3zK8N1_rahsyMO_dCVQVD9CXSpQtjcd9yPWyGomCyH1j.cNc4R6XkN8QsfDZq)
+ 
 ### Ammorce
 * [Semaine 1](https://youtu.be/rkgPTYlbXCg){:target="_blank"}
 
@@ -100,8 +101,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
     * Graph-Like Data Models - Property Graph + Cypher
 * **Capsules**
   * [Neo4J](https://youtu.be/Z-WOzomxQeI){:target="_blank"}  
-<!-- * **Labo**
-  * Labo 4: Liaison Filmographique -->
+<!-- * **Labo**-->
+  <!-- * Labo 4: Liaison Filmographique  -->
 
 ## Exercices
 
@@ -132,7 +133,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ### Labo 3 - Commerces campus
 * [Données](labo/labo_3/donnees.json)
 * [Instructions](labo/labo_3/instructions.js)
-<!-- * [Corrigé](labo/labo_3/correction.js) -->
+* [Corrigé](labo/labo_3/correction.js)
 
 
 ## House Keeping

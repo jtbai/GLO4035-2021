@@ -62,6 +62,7 @@ Premier remaniement après la remise 1
 
 * Retour nouvelles donnée
 * Retour Indexation en mémoire
+* Retour Devoir
 * Microlabo 3 
 * Exemple LSM Tree
 
@@ -96,6 +97,7 @@ Premier remaniement après la remise 1
 
 * Difficulté pas trop élevé
 * Difficulté < que les questions de l'examen
+* Correction la semaine prochaine
 
 ---
 
@@ -103,10 +105,11 @@ Premier remaniement après la remise 1
 
 ---
 
-## Questions ouvertes
+## Questions En Groupe
 
-* Qu'est-ce qui arrive si la taille maximale du Mem Table est plus petite que celle du SSTable?
-* Qu'est-ce qui fait en sorte que le nombre de SSTable ne soit pas infini
+* (RTREE) Donnez un exemple de données pouvant être indexée efficacement avec un RTREE
+* (LSM TREE) Qu'est-ce qui arrive si la taille maximale du Mem Table est plus petite que celle du SSTable?
+* (LSM TREE) Qu'est-ce qui fait en sorte que le nombre de SSTable ne soit pas infini
 
 ---
 
