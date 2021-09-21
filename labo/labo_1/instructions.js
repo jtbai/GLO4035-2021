@@ -6,7 +6,7 @@ professeurs = db.professeurs
 professeurs.count()
 // 1 - trouver le professeur Étienne Marceau
 etienne_marceau = {"nom": "Marceau", "prenom": "Etienne"}
-champs_a_conserver = {"nom":true, "prenom":true, "_id":false}
+champs_a_conserver = {"nom":true, "prenom":true}
 professeurs.find(etienne_marceau, champs_a_conserver)
 
 // 2 - trouvez le professeur Luc Lamontagne

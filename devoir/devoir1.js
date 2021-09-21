@@ -56,6 +56,7 @@ print("#Q5")
 print("#Q6")
 
 
+
 // 7. Il semble que la maison de votre rêve est malheureusement sur la RIVE SUD DE QUÉBEC!
 // La mention du mot Rive-Sud dans son identifiant vous fait frissonner.
 // Vous êtes prêt à vous débarrasser de votre thermopompe OU votre chauffage au bois (mais pas des deux)  pour ne pas avoir de mention rive-sud ou

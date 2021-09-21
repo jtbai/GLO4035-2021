@@ -5,6 +5,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Semaine 1](avancement/Avancement Session - Semaine 01.pdf)
 * [Semaine 2](avancement/Avancement Session - Semaine 02.pdf)
 * [Semaine 3](avancement/Avancement Session - Semaine 03.pdf)
+* [Semaine 4](avancement/Avancement Session - Semaine 04.pdf)
 
 ## Live
 * [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}
@@ -13,8 +14,6 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Semaine 3 - Mongo DB (Code secret: 11&2In7$)](https://ulaval.zoom.us/rec/share/UgRS4FCyYtvgvWxyreBn9-x8RSDinW3yGEEaL_trSOvHlz0PDOl3eoyn_dw3eBEb.TvAhTueWEZ6TlMN3){:target="_blank"}
 
  
-
-
 ### Ammorce
 * [Semaine 1](https://youtu.be/rkgPTYlbXCg){:target="_blank"}
 
@@ -62,7 +61,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 * **Capsules**
   * [Données Géographique et Textuelles](https://youtu.be/ySk6abWu_BA){:target="_blank"}  
-  <!-- * [Graphe Attribué](https://youtu.be/gk1O3WNc6io){:target="_blank"}  -->
+  * [Graphe Attribué](https://youtu.be/gk1O3WNc6io){:target="_blank"} 
   * [Index (BTree + RTree)](https://youtu.be/Ym-cDh6pEjQ){:target="_blank"}  
   * [Index (LSM TREE)](https://youtu.be/0OWWE6UyIg8){:target="_blank"}  
   <!-- * [Warehousing](https://youtu.be/vI4BsigwDyg){:target="_blank"}   -->
@@ -74,7 +73,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
   * [MongoDB - Requêtes avancées](https://www.youtube.com/watch?v=iKDONxl1yZo){:target="_blank"}   
   * [Indexation Mongo DB](https://youtu.be/qehNybvz3lQ){:target="_blank"}    
   * [Index Géospatial Mongo DB](https://youtu.be/ageuBJ7w6t0){:target="_blank"}  
-  <!-- * [MongoDB - Aggregation](https://youtu.be/p2335pziSAA){:target="_blank"}   -->
+  * [MongoDB - Aggregation](https://youtu.be/p2335pziSAA){:target="_blank"}  
   <!-- * [MongoDB - Sécurité](https://youtu.be/bpYNtaAtj0o){:target="_blank"}   -->
   <!-- * [MongoDB - Replication](https://youtu.be/YXAfZ8dJ3Us){:target="_blank"}   -->
   <!-- * [MongoDB - Fragmentation](https://youtu.be/PA47LIpuVds){:target="_blank"}   -->
@@ -108,8 +107,12 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Présentation](https://youtu.be/HkIB3csR2AU){:target="_blank"}  
 * [Données](labo/labo_2/bd_ulaval_cours.json)  
 * [Instructions](labo/labo_2/instructions.js)  
-<!-- * [Corrigé](labo/labo_2/correction.js) -->
+* [Corrigé](labo/labo_2/correction.js)
 
+### Labo 3 - Commerces campus
+* [Données](labo/labo_3/donnees.json)
+* [Instructions](labo/labo_3/instructions.js)
+<!-- * [Corrigé](labo/labo_3/correction.js) -->
 
 
 ## House Keeping
