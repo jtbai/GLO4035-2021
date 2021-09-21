@@ -75,6 +75,7 @@ Premier remaniement après la remise 1
   * Réfléchir en géométrie
 * Données Textuelles
   * On va y revenir en 2e partie de la session
+
 ---
 
 ## Retour
@@ -98,10 +99,6 @@ Premier remaniement après la remise 1
 
 ---
 
-## MicroLabo 3
-
----
-
 ## Exemple LSM Tree
 
 ---
@@ -109,6 +106,14 @@ Premier remaniement après la remise 1
 ## Questions ouvertes
 
 * Qu'est-ce qui arrive si la taille maximale du Mem Table est plus petite que celle du SSTable?
-* Qu'est-ce qui arrive si l'ordinateur contenant la MemTable plante?
+* Qu'est-ce qui fait en sorte que le nombre de SSTable ne soit pas infini
+
+---
+
+## MicroLabo 3
+
+---
+
+# À Faire cette semaine
 
 ---

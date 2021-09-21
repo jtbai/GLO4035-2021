@@ -13,9 +13,20 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * [Semaine 2 - No SQL (Code secret: .+4N7gGv)](https://ulaval.zoom.us/rec/share/-u2DuuQUObZ19MI55aoZCi84Cw7CE9fnbAbEGSS5NnhQ_4kvTD3MlNJ4std0_39d.CurlRJjJhNhHkp9q){:target="_blank"}
 * [Semaine 3 - Mongo DB (Code secret: 11&2In7$)](https://ulaval.zoom.us/rec/share/UgRS4FCyYtvgvWxyreBn9-x8RSDinW3yGEEaL_trSOvHlz0PDOl3eoyn_dw3eBEb.TvAhTueWEZ6TlMN3){:target="_blank"}
 
- 
 ### Ammorce
 * [Semaine 1](https://youtu.be/rkgPTYlbXCg){:target="_blank"}
+
+
+## A faire cette semaine
+
+* **Lecture**
+  * DDIA: Chapitre 2
+    * Graph-Like Data Models - Property Graph + Cypher
+* **Capsules**
+  * [Neo4J](https://youtu.be/Z-WOzomxQeI){:target="_blank"}  
+* **Capsules**
+  * [Graphe Attribué](https://youtu.be/gk1O3WNc6io){:target="_blank"} 
+  * 
 
 
 <!-- ## Banque de questions
@@ -44,12 +55,12 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Matière
 
-
 ### Desing d'application
 * **Lecture**
   * DDIA: Chapitre 1 
   * DDIA: Chapitre 2
     * Relational Model Versus Document Model
+    <!-- * Query Language for Data (semaine warehousing)-->
   
 * **Capsules**
   * [Introduction aux BD avancées](https://youtu.be/7lwjnHQb0TQ){:target="_blank"}  
@@ -78,10 +89,19 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
   <!-- * [MongoDB - Replication](https://youtu.be/YXAfZ8dJ3Us){:target="_blank"}   -->
   <!-- * [MongoDB - Fragmentation](https://youtu.be/PA47LIpuVds){:target="_blank"}   -->
 
-  <!-- * **Labo** -->
-  <!-- * Labo 1: Professeurs Université -->
-  <!-- * Labo 2: Cours Université -->
-  <!-- * Labo 3: Commerces campus -->
+  * **Labo**
+  * Labo 1: Professeurs Université
+  * Labo 2: Cours Université
+  * Labo 3: Commerces campus
+
+### Neo4J
+* **Lectures**
+  * DDIA: Chapitre 2
+    * Graph-Like Data Models - Property Graph + Cypher
+* **Capsules**
+  * [Neo4J](https://youtu.be/Z-WOzomxQeI){:target="_blank"}  
+<!-- * **Labo**
+  * Labo 4: Liaison Filmographique -->
 
 ## Exercices
 
