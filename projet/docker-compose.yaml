@@ -11,7 +11,7 @@ services:
       - flask_env=dev
     command: python3 main.py
     ports:
-    - 80:80
+    - 8080:8080
 
   database:
     image: "mongo:4.2"
