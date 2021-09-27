@@ -148,6 +148,13 @@ Commerces campus
 
 * [Horaire matière A21](/avancement/horaire.md){:target="_blank"}
 
+## Mise en place techno
+* [Mise en place - VM + Docker](https://youtu.be/RFxvC6cd7eI){:target="_blank"}  
+* [Presentation Docker](https://youtu.be/iexpQnSj1X4){:target="_blank"}  
+* [Utilisation Docker](https://www.youtube.com/watch?v=gogW8UEzQuE){:target="_blank"}  
+* [Flask + Docker](https://youtu.be/CzpxPsAaItQ){:target="_blank"}  
+* [FlaskDemoApp](flask_demo.zip) 
+
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
 * [Code Source](https://github.com/jtbai/question_bank) -->
@@ -155,7 +162,6 @@ Commerces campus
 ## Évaluations
 
 [Ponderation](evaluation/ponderation.md)  
-
 
 ### Préparation Examen (Formative)
 * [Vos questions d'examens](evaluation/formative.md)
@@ -172,12 +178,3 @@ Commerces campus
 * [Barème](https://docs.google.com/spreadsheets/d/18qU0XgY-uqfECFpx90qccWpm86i5AqQGzhfpBZtuarw/edit?usp=sharing){:target="_blank"}  
 
 
-## Exercices
-
-
-## Mise en place techno
-* [Mise en place - VM + Docker](https://youtu.be/RFxvC6cd7eI){:target="_blank"}  
-* [Presentation Docker](https://youtu.be/iexpQnSj1X4){:target="_blank"}  
-* [Utilisation Docker](https://www.youtube.com/watch?v=gogW8UEzQuE){:target="_blank"}  
-* [Flask + Docker](https://youtu.be/CzpxPsAaItQ){:target="_blank"}  
-<!-- * [FlaskDemoApp](flask_demo.zip)  -->
