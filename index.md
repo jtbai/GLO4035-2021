@@ -4,7 +4,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Prochain Live
 
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
-[Slides](avancement/Avancement Session - Semaine 05.pdf)_
+[Slides](avancement/Avancement Session - Semaine 05.pdf)
 
 ---
 
@@ -152,8 +152,8 @@ Commerces campus
 * [Mise en place - VM + Docker](https://youtu.be/RFxvC6cd7eI){:target="_blank"}  
 * [Presentation Docker](https://youtu.be/iexpQnSj1X4){:target="_blank"}  
 * [Utilisation Docker](https://www.youtube.com/watch?v=gogW8UEzQuE){:target="_blank"}  
-* [Flask + Docker](https://youtu.be/CzpxPsAaItQ){:target="_blank"}  
-* [FlaskDemoApp](flask_demo.zip) 
+<!-- * [Flask + Docker](https://youtu.be/CzpxPsAaItQ){:target="_blank"}   -->
+<!-- * [FlaskDemoApp](flask_demo.zip)  -->
 
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
