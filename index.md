@@ -24,11 +24,9 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
   * DDIA: Chapitre 2
     * Graph-Like Data Models - Property Graph + Cypher
 * **Capsules**
-  * [Neo4J](https://youtu.be/Z-WOzomxQeI){:target="_blank"}  
-* **Capsules**
   * [Graphe Attribué](https://youtu.be/gk1O3WNc6io){:target="_blank"} 
-  * 
-
+* **Capsules**
+  * [Neo4J](https://youtu.be/Z-WOzomxQeI){:target="_blank"}  
 
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
