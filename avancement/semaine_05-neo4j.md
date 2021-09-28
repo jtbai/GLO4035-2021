@@ -16,19 +16,19 @@ highlightTheme: "darkula"
 
 
 * Semaine 6: Remise Formative
-* Semaine 7: Rien :)
+* Semaine 7: Devoir 2
 
 ---
 
 ## Formative
 
-* 3 personnes ont soumis des questions
+* 2 personnes ont soumis des questions
 
 ---
 
 ## Amorce
 
-* Comment modéliser en graphe des évènements datés pour connaître tous les évènements dans une place de temps spécifique?  
+* Comment modéliser en graphe des évènements datés pour connaître tous les évènements dans une plage de temps spécifique?  
   * c-a-d que sont les noeuds et que sont les relations ?
 
 ---
@@ -49,9 +49,8 @@ highlightTheme: "darkula"
 
 ## Cette semaine
 
-* Correction Devoir 1
 * Présentation Devoir 2
 * Teaser !
 * Remise 2 - Barème des livrables
-  * la semaine prochaine (avec les corrections)
+* MicroLabo 4
 
