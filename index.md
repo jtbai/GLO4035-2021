@@ -12,6 +12,11 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ### Live
 
+
+### Devoir 2
+* [Données](devoir/import_data_devoir2.py)
+* [Instructions](devoir/devoir2.py)
+
 ### Lectures
 * DDIA: Chapitre 2
   * Query Language for Data
