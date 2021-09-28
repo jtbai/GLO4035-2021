@@ -26,6 +26,12 @@ highlightTheme: "darkula"
 
 ---
 
+## Évaluation du cours (en mi-session)
+
+* 12 octobre 2021
+
+---
+
 ## Amorce
 
 * Comment modéliser en graphe des évènements datés pour connaître tous les évènements dans une plage de temps spécifique?  
@@ -50,7 +56,32 @@ highlightTheme: "darkula"
 ## Cette semaine
 
 * Présentation Devoir 2
-* Teaser !
-* Remise 2 - Barème des livrables
+* Remise 1
+* Remise 2
 * MicroLabo 4
+
+---
+
+## Devoir 2
+
+---
+
+## Remise 1
+
+* Corrigé
+* Retour
+
+---
+
+## Remise 2
+
+* Livrables
+* Barème
+
+---
+
+## MicroLabo 4
+
+* Liaison Filmographique
+
 
