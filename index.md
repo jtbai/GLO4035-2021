@@ -16,6 +16,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ### Devoir 2
 * [Données](devoir/import_data_devoir2.py)
 * [Instructions](devoir/devoir2.py)
+* [Structure des données](devoir/devoir2.svg)
 
 ### Lectures
 * DDIA: Chapitre 2
