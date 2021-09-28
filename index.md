@@ -4,14 +4,15 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Prochain Live
 
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
-[Slides](avancement/Avancement Session - Semaine 05.pdf)
+
 
 ---
 
 ## Semaine 5
 
 ### Live
-
+[Semaine 4 - Neo4J (Code secret: 0n?YP1Lr)](https://ulaval.zoom.us/rec/share/KJa85U7Rk6rXnQjygoauQvnij-z-zFp9ehZ1fx-jlkWdh5emd1ARQgqai3Mt490M.Ez0W2visocBW8OC-)
+[Slides](avancement/Avancement Session - Semaine 05.pdf)
 
 ### Devoir 2
 * [Données](devoir/import_data_devoir2.py)

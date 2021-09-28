@@ -31,7 +31,7 @@ MERGE (actor)-[:ACTED_IN]->(movie)
 
 5. Ajoutez l'étiquette "NO_OSCAR" à "Keanu Reeves".
 MATCH (actor:Person {name: "Keanu Reeves"})
-SET actor:No_Oscar
+SET actor:NO_OSCAR
 
 6. Trouvez les films ayant été réalisés depuis l'an 2000.
 MATCH (movie:Movie)
@@ -56,6 +56,6 @@ MATCH (movie:Movie  {title: "The Matrix Revolutions"})<-[:ACTED_IN]-(person:Pers
 return person, movie_played
 
 11. Ajoutez la paire clé-valeur "seen: True" à tous les films de "Keanu Reeves" (oui vous êtes un fan).
-MATCH p = (movie:Movie )<-[:ACTED_IN]-(:Person{name: "Keanu Reeves"} )
+MATCH P = (movie:Movie )<-[:ACTED_IN]-(:Person{name: "Keanu Reeves"} )
 foreach(movies in nodes(P) | SET movies.seen )
 return person, movie_played
