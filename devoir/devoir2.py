@@ -5,11 +5,11 @@
 
 from py2neo import Graph
 
-url = ""
-user = ""
-password = ""
+url = "bolt://localhost:7687"
+user = "neo4j"
+password = "supersecret"
 
-base_de_donnee = Graph(url, auth=(user,password),  scheme='bolt', secure=True)
+base_de_donnee = Graph(url, auth=(user,password))
 
 #Question de pratique: Quelles sont les microbrasseries dans la ville de Québec? (0 points)
 print("#Q0")

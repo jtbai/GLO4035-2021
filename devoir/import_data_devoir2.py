@@ -1,10 +1,14 @@
+# Lorsque vous démarrez le conteneur pour la première fois,
+# Assurez vous de changer le mot de passe par défaut et de mettre le mot de passe suivant
+# supersecret
+
 from py2neo import Graph, Node, Relationship
 
-url = ""
-user = ""
-password = ""
+url = "bolt://localhost:7687"
+user = "neo4j"
+password = "supersecret"
 
-graph = Graph(url, auth=(user, password))
+graph = Graph(url, auth=(user, password), secure=False)
 
 transaction = graph.begin()
 
