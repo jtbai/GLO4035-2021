@@ -38,7 +38,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
   * [Présentation](https://youtu.be/86z2_T_yk7w){:target="_blank"}  
   * [Données](labo/labo_4/donnees_film.txt)
   * [Instructions](labo/labo_4/instructions.txt)
-  <!-- * [Corrigé](labo/labo_4/corrections.txt) -->
+  * [Corrigé](labo/labo_4/corrections.txt)
 
 ---
 
