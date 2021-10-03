@@ -6,6 +6,21 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
 
 
+
+
+---
+
+## Semaine 6
+
+### Live
+
+### Lecture
+* [Big Data: Chapitre 1](contenu/bigdata-chapitre1.pdf)
+* 
+### Capsules
+* Design d'application
+  * [Architecture Lambda](https://youtu.be/ThK_EYqOPBE)
+
 ---
 
 ## Semaine 5
@@ -26,7 +41,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
   * Transaction Processing or Analytics?
   * Column-Oriented Storage
   
-### Matière
+### Capsules
 * Design d'application
   * [Warehousing](https://youtu.be/vI4BsigwDyg){:target="_blank"}  
 * MongoDB
