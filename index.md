@@ -2,31 +2,36 @@
 Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Prochain Live
-
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
-
-
-
 
 ---
 
 ## Semaine 6
 
 ### Live
+<!-- [Semaine 5 - Neo4J (Code secret: 0n?YP1Lr)](https://ulaval.zoom.us/rec/share/KJa85U7Rk6rXnQjygoauQvnij-z-zFp9ehZ1fx-jlkWdh5emd1ARQgqai3Mt490M.Ez0W2visocBW8OC-) -->
+[Slides](avancement/Avancement Session - Semaine 06.pdf)
 
 ### Lecture
 * [Big Data: Chapitre 1](contenu/bigdata-chapitre1.pdf)
-* 
+
 ### Capsules
 * Design d'application
   * [Architecture Lambda](https://youtu.be/ThK_EYqOPBE)
+
+### Microlabo
+
+* Portefeuille de crypto
+  * [Données](labo/labo_5/db_ulaval_actions.js)
+  * [Instructions](labo/labo_5/instructions.js)
+  * [Corrigé](labo/labo_5/corrige.js)
 
 ---
 
 ## Semaine 5
 
 ### Live
-[Semaine 4 - Neo4J (Code secret: 0n?YP1Lr)](https://ulaval.zoom.us/rec/share/KJa85U7Rk6rXnQjygoauQvnij-z-zFp9ehZ1fx-jlkWdh5emd1ARQgqai3Mt490M.Ez0W2visocBW8OC-)
+[Semaine 5 - Neo4J (Code secret: 0n?YP1Lr)](https://ulaval.zoom.us/rec/share/KJa85U7Rk6rXnQjygoauQvnij-z-zFp9ehZ1fx-jlkWdh5emd1ARQgqai3Mt490M.Ez0W2visocBW8OC-)
 [Slides](avancement/Avancement Session - Semaine 05.pdf)
 
 ### Devoir 2
@@ -174,8 +179,8 @@ Commerces campus
 * [Mise en place - VM + Docker](https://youtu.be/RFxvC6cd7eI){:target="_blank"}  
 * [Presentation Docker](https://youtu.be/iexpQnSj1X4){:target="_blank"}  
 * [Utilisation Docker](https://www.youtube.com/watch?v=gogW8UEzQuE){:target="_blank"}  
-<!-- * [Flask + Docker](https://youtu.be/CzpxPsAaItQ){:target="_blank"}   -->
-<!-- * [FlaskDemoApp](flask_demo.zip)  -->
+* [Flask + Docker](https://youtu.be/CzpxPsAaItQ){:target="_blank"}  
+* [FlaskDemoApp](flask_demo.zip) 
 
 <!-- ## Banque de questions
 * [Application](banque_question.zip)  
