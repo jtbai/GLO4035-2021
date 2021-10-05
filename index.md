@@ -9,7 +9,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Semaine 6
 
 ### Live
-<!-- [Semaine 5 - Neo4J (Code secret: 0n?YP1Lr)](https://ulaval.zoom.us/rec/share/KJa85U7Rk6rXnQjygoauQvnij-z-zFp9ehZ1fx-jlkWdh5emd1ARQgqai3Mt490M.Ez0W2visocBW8OC-) -->
+[Semaine 5 - Agrégations (Code secret: ?4ckj174)](https://ulaval.zoom.us/rec/share/GKXZg0EPD8lMYpompEXtqqDCYB-sk9J49qXYTxPHxRd82Cpxq9hYcLEfp-i7n0ve.K1zhv3RYFOK3uORM)
 [Slides](avancement/Avancement Session - Semaine 06.pdf)
 
 ### Lecture
