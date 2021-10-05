@@ -17,7 +17,9 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ### Capsules
 * Design d'application
-  * [Architecture Lambda](https://youtu.be/ThK_EYqOPBE)
+  * [Architecture Lambda](https://youtu.be/ThK_EYqOPBE){:target="_blank"}  
+* Mongo
+  * [MongoDB - Sécurité](https://youtu.be/bpYNtaAtj0o){:target="_blank"}  
 
 ### Microlabo
 
