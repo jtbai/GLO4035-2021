@@ -14,7 +14,7 @@ highlightTheme: "darkula"
 ## À VENIR
 
 * Semaine 7: Devoir 2
-* Semaine 8: Examen (le samedi)
+* Semaine 8: Examen (le dimanche 24)
 
 ---
 
@@ -69,7 +69,6 @@ Quels sont les problèmes possible lorsqu'on construit un Data Warehouse en entr
 
 ## Remise 2 - Problèmes à réfléchir
 
-* Extraction initiale vs incrémentale
 * Pas tous les points sont utiles
   * Les restaurants proches de routes
   * Les routes proche de restaurants
@@ -78,6 +77,15 @@ Quels sont les problèmes possible lorsqu'on construit un Data Warehouse en entr
   * Modélisation des intersections
 * Trouver les bons compromis
   * c'est un MVP 80/20
+
+---
+
+
+## Remise 2 - Problèmes à réfléchir
+
+* Extraction initiale vs incrémentale
+* Types Restaurants?
+* Batch vs Speed
 
 ---
 
