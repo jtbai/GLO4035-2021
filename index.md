@@ -16,8 +16,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 [Slides](avancement/Avancement Session - Semaine 07.pdf)
 
 ### Démo
-[Application démo](https://github.com/jtbai/question_bank)
-[DBB](evaluation/mongo.zip)
+* [Application démo](https://github.com/jtbai/question_bank)
+* [DBB](evaluation/mongo.zip)
 
 ### Formative
 [Support Examen monPortail](evaluation/examen-intra/pratique.pdf)
