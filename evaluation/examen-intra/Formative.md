@@ -7,10 +7,11 @@ highlightTheme: "darkula"
 # Evaluation formative
 
 ---
+
 ## Question 1
 
 ### question 
-Pour réduire les erreurs humaines d'un système, quelles sont les préventions à faire ?"
+Pour réduire les erreurs humaines d'un système, quelles sont les préventions à faire ?
 
 ### reponse
 Faire les tests unitaires, les tests d'intégration, les tests automatiser; utiliser les métriques de performances: Médiane, etc., monitoring

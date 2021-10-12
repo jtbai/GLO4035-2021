@@ -4,12 +4,30 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Prochain Live
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
 
+
+
+
+
+---
+
+## Semaine 7
+
+### Live
+[Slides](avancement/Avancement Session - Semaine 07.pdf)
+
+### Démo
+[Application démo](https://github.com/jtbai/question_bank)
+[DBB](evaluation/mongo.zip)
+
+### Formative
+[Support Examen monPortail](evaluation/examen-intra/pratique.pdf)
+
 ---
 
 ## Semaine 6
 
 ### Live
-[Semaine 5 - Agrégations (Code secret: ?4ckj174)](https://ulaval.zoom.us/rec/share/GKXZg0EPD8lMYpompEXtqqDCYB-sk9J49qXYTxPHxRd82Cpxq9hYcLEfp-i7n0ve.K1zhv3RYFOK3uORM)
+[Semaine 6 - Agrégations (Code secret: ?4ckj174)](https://ulaval.zoom.us/rec/share/GKXZg0EPD8lMYpompEXtqqDCYB-sk9J49qXYTxPHxRd82Cpxq9hYcLEfp-i7n0ve.K1zhv3RYFOK3uORM)
 [Slides](avancement/Avancement Session - Semaine 06.pdf)
 
 ### Lecture
