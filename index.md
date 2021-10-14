@@ -11,7 +11,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Semaine 7
 
 ### Live
-[Semaine 7 - Lambda Arch (Code secret: Eo2Y+w9D)](https://ulaval.zoom.us/rec/share/OUNwssen3uyd33DrwcpWxI-EjAfnZtrrPnh_-UooWhAJGbU_nKZRT5kYxXgMDdC0.-wkde0bWObYTWFrK)
+[Semaine 7 - Lambda Arch (Code secret: Eo2Y+w9D)](https://ulaval.zoom.us/rec/share/OUNwssen3uyd33DrwcpWxI-EjAfnZtrrPnh_-UooWhAJGbU_nKZRT5kYxXgMDdC0.-wkde0bWObYTWFrK)  
 [Slides](avancement/Avancement Session - Semaine 07.pdf)
 
 ### Démo
