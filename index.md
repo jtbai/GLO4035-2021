@@ -6,8 +6,6 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 
 
-
-
 ---
 
 ## Semaine 7
