@@ -4,11 +4,11 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Prochain Live
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
 
-
-
 ## Semaine 10 
 
 ## Live
+[Semaine 10 - Calm avant la tempête (Code secret: 4Fn92+vR)](https://ulaval.zoom.us/rec/share/bvb_9kRWbgPJPpZYqsoDQsUMXoCVtXcPwBh5me7rQhaZ1DXu18oUmNcI76zbqqhl.DgWp71g7PXpMOw9N)  
+[Slides](avancement/Avancement%20Session%20-%20Semaine%2010.pdf)
 
 ### Capsules
 * ElasticSearch
@@ -20,7 +20,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * Intérêt de recherche
   * [Données](labo/labo_6/dataset.json)  
   * [Instructions](labo/labo_6/instructions.py)  
-  
+
 ---
 
 ## Semaine 7
