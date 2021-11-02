@@ -12,9 +12,9 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ### Capsules
 * ElasticSearch
-  * (Intro)[https://youtu.be/2rttJaMxezY]
-  * (Recherche avancée)[https://youtu.be/0dcX1di1F6o]
-  * (Exemple recherche avancée)[https://youtu.be/TdehQKWGtjU]
+  * [Intro](https://youtu.be/2rttJaMxezY)
+  * [Recherche avancée](https://youtu.be/0dcX1di1F6o)
+  * [Exemple recherche avancée](https://youtu.be/TdehQKWGtjU)
 
 ### Labo
 * Intérêt de recherche
