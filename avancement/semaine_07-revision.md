@@ -46,7 +46,7 @@ Pourquoi l'architecture lambda est-elle intéressante dans un paradigme de donn�
 
 # EXAMEN MI-SESSION
 
-Date: Dimanche 24 octobre 2021
+Date: Dimanche 24 octobre 2021  
 Lieu: Voir le monPortail
 
 ---
@@ -82,6 +82,12 @@ Lieu: Voir le monPortail
 * Question développement 
   * Index
   * Map Reduce: Facile si vous comprenez MR
+
+---
+
+# Banque de questions
+
+## Présentation de la formative
 
 ---
 

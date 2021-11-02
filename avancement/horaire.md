@@ -18,5 +18,5 @@
  12 |	16 nov	| ES2	 |	Replication	| CHAP 5	|  | 
  13 |	23 nov	| Replication	 |	Partitionnement	| CHAP 6	|  | D3
  14 |	30 nov	| Partitionnement	 |		|  |  | 
- 15 |	7 déc	| DDIA |	Oraux + Revision | |  | TP3 (4035) / Oral (7035)
+ 15 |	7 déc	|  |	Oraux + Revision | |  | TP3 (4035) / Oral (7035)
  EXAM  |	12 déc	| |                   | |  | TP3 (7035)

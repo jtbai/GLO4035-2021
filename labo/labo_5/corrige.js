@@ -19,7 +19,7 @@ print("#Q3")
 actions.aggregate([
     {$match: {"client":"Justin Trudeau"}},
     {$unwind: "$transaction"},
-    {$group: {_id:"$client", montant_xbt: {$sum:"$transaction.quantite"}}},
+    {$group: {_id:"$client", montant_btc: {$sum:"$transaction.quantite"}}},
     {$project: {"valeur_portefeuille": {$multiply: ["$montant_btc", 60920.80]}}}
 ]).next().valeur_portefeuille
 print("#Q4")
@@ -69,8 +69,8 @@ actions.aggregate([
 //ou bin
 
 var monMap = function(){
+    print(this.client)
     for(var i =0; i<this.transaction.length; i++){
-        print(this.transaction)
         emit({client: this.client, symbole: this.transaction[i].symbole}, this.transaction[i].quantite)
     }
 }
@@ -81,7 +81,7 @@ var monReduce = function(key, values){
 
 var monFinalize = function(item, valeur_finale){
     var valeur_symbole;
-    if(item.symbole == "XBT"){
+    if(item.symbole == "BTC"){
         valeur_symbole = 60920.80;
     }else if (item.symbole == "ETH") {
         valeur_symbole = 4182.26;
@@ -116,12 +116,11 @@ db.valeurs_par_leader.find()
 ///// AIDE AU DEBOGAGE ///////
 print(    "///// AIDE AU DEBOGAGE ///////")
 var emit = function(key, value){ 
-    print("émission - clé: " + key + " valeur: " + value); 
+    print("émission - clé: {" + key.client + ","+key.symbole +"} valeur: " + value); 
 }
 actions.find()[3]
 monMap.apply(actions.find()[3])
 
-var cle_debogage = [{client:"Jagmeet Singh"}]
+var cle_debogage = [{client:"Jagmeet Singh",symbole:"BTC"}]
 var valeurs_debogage = [1,3,3,7]
 monReduce(cle_debogage, valeurs_debogage)
-
