@@ -20,6 +20,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * Intérêt de recherche
   * [Données](labo/labo_6/dataset.json)  
   * [Instructions](labo/labo_6/instructions.py)  
+  
 ---
 
 ## Semaine 7
@@ -231,7 +232,7 @@ Commerces campus
 * [Velo épicurien](evaluation/projet_ingenierie.md)  
 * [Barème](https://docs.google.com/spreadsheets/d/18qU0XgY-uqfECFpx90qccWpm86i5AqQGzhfpBZtuarw/edit?usp=sharing){:target="_blank"}  
 * [Évaluation - Requêtes - Remise 2 ](evaluation/velo_epicurien_requests_remise_2.json)
-<!-- * [Évaluation - Requêtes - Remise 2 & 3](evaluation/velo_epicurien_request_remise2-3.json) -->
+* [Évaluation - Requêtes - Remise 2 & 3](evaluation/velo_epicurien_request_remise2-3.json)
 
 ### Présentation Orale (GLO-7035)
 * [Devis](evaluation/oral.md)  
