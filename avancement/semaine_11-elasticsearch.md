@@ -21,8 +21,8 @@ highlightTheme: "darkula"
 
 # Amorce
 
-Si nous n'avions pas accès à elasticSearch (ou lucene), est-ce qu'on aurait pu le créer nous même avec les outils vus en classe?
-A quoi ressemblerait l'architecture de cette application?
+Si nous n'avions pas accès à elasticSearch (ou Lucene), est-ce qu'on aurait pu le créer nous même avec les outils vus en classe?
+À quoi ressemblerait l'architecture de cette application?
 
 ---
 

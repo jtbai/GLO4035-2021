@@ -64,8 +64,8 @@ highlightTheme: "darkula"
 ## Kickoff remise 3
  * On a des piste de vélo + des restaurants
    * Créer un réseaux cyclable
-   * Mettre des arrêts (restaurants pas sur les segments?)
-   * Générer un parcours (Attention à la latence !!!)
+   * Mettre des arrêts (restaurants loin des segments?)
+   * Générer un parcours (Attention latence !!)
 
 ---
 

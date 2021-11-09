@@ -9,6 +9,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Semaine 11
 
 ## Live
+[Slides](avancement/Avancement%20Session%20-%20Semaine%2011.pdf)
 
 ### Capsules
 * ElasticSearch
