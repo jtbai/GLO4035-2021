@@ -2,7 +2,7 @@
 Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Prochain Live
-[Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"} 
+[Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
 [Après la classe](https://ulaval.zoom.us/j/66889456304?pwd=MU9lOHdta3FtaHhGcmdOWTJ2ZTRMQT09){:target="_blank"} 
 
 
