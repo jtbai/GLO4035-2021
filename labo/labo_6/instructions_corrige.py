@@ -8,7 +8,7 @@ def get_elasticsearch_hits(elasticsearch_response):
     return [(element["_score"], element["_source"]) for element in elasticsearch_response['hits']['hits']]
 
 # Q1 - Ajoutez les documents de type "profile" du fichier dataset.json dans l'index "profs"
-# input_documents = json.load(open('dataset.json'))
+input_documents = json.load(open('dataset.json'))
 # for id, document in enumerate(input_documents):
 #     es.index(index='profs', doc_type='profile', id=id, body=document)
 
@@ -31,5 +31,5 @@ es.update(index='profs', doc_type='profile', id=0,  body={"doc":{"yeux":"verts",
 es.search(q="nlp")
 
 # Q8 - Trouvez tous les documents qui contiennent "Mes intérêts de recherche" dans la "biographie" du professeur en utilisant l'argument "body".
-a = es.search(index='profs', doc_type='profile', body={"query":{"match":{"biographie":"mes intérêts de recherche"}}})
+a = es.search(index='profs', query={"match":{"biographie":"mes intérêts de recherche"}})
 get_elasticsearch_hits(a)

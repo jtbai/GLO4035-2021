@@ -2,12 +2,31 @@
 Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Prochain Live
-[Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
+[Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"} 
+[Après la classe](https://ulaval.zoom.us/j/66889456304?pwd=MU9lOHdta3FtaHhGcmdOWTJ2ZTRMQT09){:target="_blank"} 
+
+
+## Semaine 11
+
+## Live
+
+### Capsules
+* ElasticSearch
+  * [Elastic Search - Paramétrisation avancée](https://youtu.be/5skhl5-vWxg){:target="_blank"}  
+  * [Elastic Search - Recherche encore plus avancée](https://youtu.be/T_6BMj_h_Ng){:target="_blank"}  
+  * [Elastic Search - Géolocalisation](https://youtu.be/8M_hts0FjhI){:target="_blank"}  
+
+### Labo - Labo Inversé!
+* [Données](labo/labo_7/dataset.zip)  
+* [Importation des données](labo/labo_7/data_import.py) - à vous de jouer!
+* [Corrigé](labo/labo_7/instructions.py)  
+
+---
 
 ## Semaine 10 
 
 ## Live
-[Semaine 10 - Calm avant la tempête (Code secret: 4Fn92+vR)](https://ulaval.zoom.us/rec/share/bvb_9kRWbgPJPpZYqsoDQsUMXoCVtXcPwBh5me7rQhaZ1DXu18oUmNcI76zbqqhl.DgWp71g7PXpMOw9N)  
+[Semaine 10 - Remise 3 (Kickoff) (Code secret: 4Fn92+vR)](https://ulaval.zoom.us/rec/share/bvb_9kRWbgPJPpZYqsoDQsUMXoCVtXcPwBh5me7rQhaZ1DXu18oUmNcI76zbqqhl.DgWp71g7PXpMOw9N)  
 [Slides](avancement/Avancement%20Session%20-%20Semaine%2010.pdf)
 
 ### Capsules
