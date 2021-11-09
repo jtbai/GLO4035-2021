@@ -9,6 +9,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Semaine 11
 
 ## Live
+[Semaine 11 - Retour evaluation misession + Elastic Search  (Code secret: 29D&7AGn)](https://ulaval.zoom.us/rec/share/L9NJl1UEHrcBEgiBbdEQ5vUYadKnq6xPoxqLpwdfegp5uamCJr-KWdwVfrTGWbo0.DNYLG0DeTljjRn0k)
 [Slides](avancement/Avancement%20Session%20-%20Semaine%2011.pdf)
 
 ### Capsules
