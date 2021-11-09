@@ -12,9 +12,9 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ### Capsules
 * ElasticSearch
-  * [Elastic Search - Paramétrisation avancée](https://youtu.be/5skhl5-vWxg){:target="_blank"}  
-  * [Elastic Search - Recherche encore plus avancée](https://youtu.be/T_6BMj_h_Ng){:target="_blank"}  
-  * [Elastic Search - Géolocalisation](https://youtu.be/8M_hts0FjhI){:target="_blank"}  
+  * [Paramétrisation avancée](https://youtu.be/5skhl5-vWxg){:target="_blank"}  
+  * [Recherche encore plus avancée](https://youtu.be/T_6BMj_h_Ng){:target="_blank"}  
+  * [Géolocalisation](https://youtu.be/8M_hts0FjhI){:target="_blank"}  
 
 ### Labo - Labo Inversé!
 * [Données](labo/labo_7/dataset.zip)  
