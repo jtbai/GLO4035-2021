@@ -9,6 +9,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 ## Semaine 12
 
 ## Live
+[Semaine 12 - Elastic Search 2  (Code secret: MhC*p8&Y)](https://ulaval.zoom.us/rec/share/rYTHhIMLKbztQb_tE-hqGxY28myjBePRuRU3pV6JKzHB_WyWIlBw6Z4_MC3qPL2O.N3oIv-S8iOfHhkbw)
 [Slides](avancement/Avancement%20Session%20-%20Semaine%2012.pdf)
 
 ### Capsules
