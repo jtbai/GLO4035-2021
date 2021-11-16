@@ -10,7 +10,6 @@ NOM_INDEX_QUEBEC = "quebec"
 NOM_DOCTYPE_QUEBEC = "_doc"
 
 
-
 def extract_hit_list(elastic_search_results, name_field):
     if 'hits' in elastic_search_results and 'hits' in elastic_search_results['hits']:
         return [hit['_source'][name_field] for hit in elastic_search_results['hits']['hits']]
@@ -19,7 +18,7 @@ def extract_hit_list(elastic_search_results, name_field):
 
 ### Question 1 : Trouvez tous les commerces qui servent de la bière!
 beer_query = {"query":{"match": {"description": "biere"}}}
-beer_place = elastic_search_client.search(index=NOM_INDEX_COMMERCE, doc_type=NOM_DOCTYPE_COMMERCE, body=beer_query)
+beer_place = elastic_search_client.search(index=NOM_INDEX_COMMERCE, body=beer_query)
 
 print(extract_hit_list(beer_place, 'nom'))
 #Rep: ['Le Pub', 'Café Au Temps Perdu', '3 Brasseurs']
@@ -29,7 +28,7 @@ print(extract_hit_list(beer_place, 'nom'))
 ### Question 2: Trouvez tous les commerces à l'intérieur d'une boite délimitée par les coins de place ste-foy
 box_place_stefoy = {"top_left": {"lat": 46.775088, "lon": -71.281777}, "bottom_right": {"lat": 46.772119, "lon": -71.276016}}
 bounding_box_query = {"query":{"geo_bounding_box": {"emplacement": box_place_stefoy}}}
-documents_within_bounding_box = elastic_search_client.search(index=NOM_INDEX_COMMERCE, doc_type=NOM_DOCTYPE_COMMERCE, body=bounding_box_query)
+documents_within_bounding_box = elastic_search_client.search(index=NOM_INDEX_COMMERCE,body=bounding_box_query)
 
 print(extract_hit_list(documents_within_bounding_box, 'nom'))
 #Rep: ['La Maison Simons', '3 Brasseurs']
@@ -39,7 +38,7 @@ print(extract_hit_list(documents_within_bounding_box, 'nom'))
 ### Question 3: Trouvez tous les commerces à l'intérieur du polygone précis de place ste-fot
 place_stefoy = {"points": [{"lat": 46.773464, "lon": -71.282646}, {"lat": 46.775903, "lon": -71.278108}, {"lat": 46.773890, "lon": -71.275876}, {"lat": 46.771575, "lon": -71.280328}]}
 polygon_query = {"query": {"geo_polygon": {"emplacement":place_stefoy}}}
-documents_within_polygon = elastic_search_client.search(index=NOM_INDEX_COMMERCE, doc_type=NOM_DOCTYPE_COMMERCE, body=polygon_query)
+documents_within_polygon = elastic_search_client.search(index=NOM_INDEX_COMMERCE, body=polygon_query)
 
 print(extract_hit_list(documents_within_polygon, 'nom'))
 #Rep: ['La Maison Simons', '3 Brasseurs']
@@ -59,7 +58,7 @@ updated_distance_query = {"query":{
         },
     }
 }
-restaurant_documents_within_distance = elastic_search_client.search(index=NOM_INDEX_COMMERCE, doc_type=NOM_DOCTYPE_COMMERCE, body=updated_distance_query)
+restaurant_documents_within_distance = elastic_search_client.search(index=NOM_INDEX_COMMERCE, body=updated_distance_query)
 
 print(extract_hit_list(restaurant_documents_within_distance, 'nom'))
 #Rep : ['3 Brasseurs']
