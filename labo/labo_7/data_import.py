@@ -13,15 +13,15 @@ settings = {
     "analysis":{
         "analyzer":{
             "texte_normalise":{
-                "type":"custom",
-                "tokenizer":"standard",
-                "filter":["asciifolding","lowercase", "mon_stemmer"]
+                "type":"",
+                "tokenizer":"",
+                "filter":[]
             }
         },
         "filter" : {
                 "mon_stemmer" : {
-                    "type" : "stemmer",
-                    "name" : "light_french"
+                    "type" : "",
+                    "name" : ""
                 }
             }
     }
@@ -29,11 +29,11 @@ settings = {
 }
 mapping = {
         "properties":{
-            "emplacement": {"type":"geo_point"},
-            "emplacement_shape": {"type":"geo_shape"},
-            "nom": {"type":"text"},
-            "description": {"type":"text", "analyzer":"texte_normalise", },
-            "type": {"type":"keyword"}
+            "emplacement": {"type":""},
+            "emplacement_shape": {"type":""},
+            "nom": {"type":""},
+            "description": {"type":"", "analyzer":""},
+            "type": {"type":""}
         }
 }
 
