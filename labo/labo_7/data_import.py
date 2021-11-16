@@ -9,9 +9,33 @@ NOM_INDEX_COMMERCE= "commerce"
 elastic_search_client = Elasticsearch(ELASTICSERACH_HOST,port=ELASTICSEARCH_PORT)
 
 
-# A FAIRE: METTRE LES BONS SETTINGS ET MAPPING POUR LES COMMERCES
-settings = {}
-mapping = {}
+settings = {
+    "analysis":{
+        "analyzer":{
+            "texte_normalise":{
+                "type":"custom",
+                "tokenizer":"standard",
+                "filter":["asciifolding","lowercase", "mon_stemmer"]
+            }
+        },
+        "filter" : {
+                "mon_stemmer" : {
+                    "type" : "stemmer",
+                    "name" : "light_french"
+                }
+            }
+    }
+
+}
+mapping = {
+        "properties":{
+            "emplacement": {"type":"geo_point"},
+            "emplacement_shape": {"type":"geo_shape"},
+            "nom": {"type":"text"},
+            "description": {"type":"text", "analyzer":"texte_normalise", },
+            "type": {"type":"keyword"}
+        }
+}
 
 # Étape 1: Créer les index des commerces
 if elastic_search_client.indices.exists(index=NOM_INDEX_COMMERCE):
@@ -38,9 +62,15 @@ with open('dataset/commerce.csv') as source_file:
         
 NOM_INDEX_COMMERCE = "quebec"
 
-# A FAIRE: METTRE LES BONS SETTINGS ET MAPPING POUR LES FORMES
+# Étape 3: Créer les index des formes
 settings = {}
-mapping = {}
+mapping = {
+        "properties":{
+            "emplacement": {"type":"geo_shape"},
+            "nom": {"type":"text"},
+            "type": {"type":"keyword"}
+        }
+}
 
 if elastic_search_client.indices.exists(index=NOM_INDEX_COMMERCE):
     elastic_search_client.indices.delete(index=NOM_INDEX_COMMERCE)
@@ -75,4 +105,5 @@ for doc_index, document in enumerate(documents):
             "coordinates": close_polygon(document['emplacement']) if get_shape_type(document['emplacement']) == "polygon" else document['emplacement']
         }
     }
+    # if get_shape_type(document['emplacement']) != "polygon":
     elastic_search_client.index(index=NOM_INDEX_COMMERCE, id=doc_index, document=elastic_search_documents)
