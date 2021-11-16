@@ -25,8 +25,8 @@ settings = {
                 }
             }
     }
-
 }
+
 mapping = {
         "properties":{
             "emplacement": {"type":"geo_point"},
