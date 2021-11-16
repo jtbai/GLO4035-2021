@@ -6,6 +6,24 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 [Après la classe](https://ulaval.zoom.us/j/66889456304?pwd=MU9lOHdta3FtaHhGcmdOWTJ2ZTRMQT09){:target="_blank"} 
 
 
+## Semaine 12
+
+## Live
+[Slides](avancement/Avancement%20Session%20-%20Semaine%2012.pdf)
+
+### Capsules
+  * [DDIA - Replication](https://youtu.be/QAKg-DNKR0w){:target="_blank"}  
+  * [MongoDB - Replication](https://youtu.be/YXAfZ8dJ3Us){:target="_blank"}  
+  
+### Lectures
+  * DDIA: Chapitre 5 - **Réplication**
+    * Leaders and Followers
+    * Problems with Replication Lag
+    * Multi-Leader Replication
+    * Leaderless Replication
+
+---
+
 ## Semaine 11
 
 ## Live
