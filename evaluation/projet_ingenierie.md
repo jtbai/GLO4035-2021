@@ -17,7 +17,7 @@ Une preuve de concept n'est pas une application finale. Elle doit être cependan
 
 D'un point de vue fonctionnel, l'application doit permettre à un utilisateur d'obtenir un parcours en spécifiant 
 - un nombre d'arrêt souhaité, 
-- la distance maximale à parcourir et 
+- la distance à parcourir et 
 - une liste de types de restaurants
 - pour une ville en particulier.
 
