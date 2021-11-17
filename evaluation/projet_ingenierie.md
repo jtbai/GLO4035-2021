@@ -191,7 +191,7 @@ returns:
 ```
 #### Obtenir un point de départ 
 Cet appel permet à un utilisateur ou une application cliente d'obtenir un point de départ aléatoire:
-- d'un trajet d'une longueur `maximum_length` ± 10%
+- d'un trajet d'une longueur `length` ± 10%
 - comprenant des restaurants inclus dans les types définis dans le tableau `type` et
 - si le tableau `type` est vide, on assume que tous les types sont possibles
 
@@ -200,7 +200,7 @@ Le point de départ est un objet géographique de type `GeoPoint`
 ```
 @GET /starting_point (avec le payload):
 {
-    "maximumLength": int (en mètre),
+    "length": int (en mètre),
     "type": [str, str, ... ]
 }
 
@@ -213,7 +213,7 @@ returns:
 #### Générer un parcours 
 Cet appel permet à un utilisateur ou une application cliente d'obtenir: 
 - un trajet partant d'un point dans un rayon de 500m du point `startingPoint`
-- le trajet obtenu est d'une longueur de `maximumLength` ± 10%
+- le trajet obtenu est d'une longueur de `length` ± 10%
 - le trajet à au plus (et de préférence) `numberOfStops` arrets
 - qui sont des restaurants inclus dans les types définis dans le tableau `type` et 
 - si le tableau `type`est vide, on assume que tous les types sont possibles
@@ -230,7 +230,7 @@ Assurez-vous de bien suivre le format demandé par le standard [RFC-7946](https:
 @GET /parcours (avec le payload):
 {
     "startingPoint" : {"type":"Point", "coordinates":[float, float]},
-    "maximumLength": int (en mètre),
+    "length": int (en mètre),
     "numberOfStops": int,
     "type": [str, str, ... ]
 }

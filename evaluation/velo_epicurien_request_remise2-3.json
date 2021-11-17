@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "51e1058e-15ff-471f-bd9f-040274f80aab",
-		"name": "glo-4035",
+		"_postman_id": "d2015bc3-23a8-4f59-b43f-be2972a8f2e5",
+		"name": "glo-4035 Copy",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
@@ -14,7 +14,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "10994368-1efe-4081-a9da-f547bfb514be",
 								"exec": [
 									"pm.test(\"heartbeat - villeChoisie - 0.5\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -48,7 +47,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "e0689108-489d-482d-8c06-48e0021ecda7",
 								"exec": [
 									"pm.test(\"extracted - property nbRestaurant - 0.25\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -97,7 +95,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "164b23e8-23d6-4ec1-b567-f35538e0755d",
 								"exec": [
 									"pm.test(\"transformed - property restaurants - 0.25\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -146,8 +143,7 @@
 					"response": []
 				}
 			],
-			"description": "Test pour la remise 2",
-			"protocolProfileBehavior": {}
+			"description": "Test pour la remise 2"
 		},
 		{
 			"name": "Remise3",
@@ -158,7 +154,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "f8a9a7d0-2724-474b-9e51-954330a9c066",
 								"exec": [
 									"pm.test(\"setGetLongueurCyclable\", function(){",
 									"var jsonData = pm.response.json();",
@@ -193,7 +188,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "2d7882e7-c85f-46e2-a1cb-b5ab061cb67b",
 								"exec": [
 									"pm.test(\"readme - 0.25\", function () {",
 									"    ",
@@ -228,7 +222,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "25423154-7b29-471c-925a-eecd4c594555",
 								"exec": [
 									"pm.test(\"type - 5 types de restaurants\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -271,7 +264,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "74ba8fcd-8328-4e33-a5ae-de91f288da9f",
 								"exec": [
 									"pm.test(\"starting-point - Valid geopoint\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -289,7 +281,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "9ce0ec18-9135-4bef-9d39-f32ef28d20df",
 								"exec": [
 									"",
 									"allRestaurantType = pm.globals.get(\"restaurantList\")",
@@ -304,10 +295,10 @@
 									"",
 									"",
 									"",
-									"maximumLenghts = [5000, 7500, 10000, 12000, 8000, 15000]",
-									"randomMaximumLength = maximumLenghts[Math.floor(Math.random() * maximumLenghts.length)];",
+									"lenghts = [5000, 7500, 10000, 12000, 8000, 15000]",
+									"randomlength = lenghts[Math.floor(Math.random() * lenghts.length)];",
 									"",
-									"pm.globals.set(\"randomMaximumLength-1\",randomMaximumLength)",
+									"pm.globals.set(\"randomLength-1\",randomLength)",
 									"",
 									""
 								],
@@ -332,7 +323,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"maximumLength\":{{randomMaximumLength-1}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"length\":{{randomlength-1}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -354,7 +345,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "bb37d2be-c7c3-4af3-bab6-9c874fc0b8a9",
 								"exec": [
 									"pm.test(\"starting-point - Valid geopoint\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -372,7 +362,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "7d4348ce-82ac-4af3-b78b-da52dba24bec",
 								"exec": [
 									""
 								],
@@ -397,7 +386,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"maximumLength\":{{randomMaximumLength-1}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"length\":{{randomLength-1}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -419,7 +408,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "4ecc7441-c050-427d-b528-ffa6da78ab02",
 								"exec": [
 									"pm.test(\"starting-point - Valid geopoint\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -451,7 +439,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "c2b68275-1a1c-4336-a247-4df18c70f566",
 								"exec": [
 									""
 								],
@@ -476,7 +463,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"maximumLength\":{{randomMaximumLength-1}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"length\":{{randomLength-1}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -498,7 +485,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "b319c64a-7775-4610-a786-ecfc4f715be0",
 								"exec": [
 									"pm.test(\"starting-point - Valid geopoint\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -516,7 +502,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "598cef9a-d818-4bac-9c9f-418a13290e46",
 								"exec": [
 									"",
 									"allRestaurantType = pm.globals.get(\"restaurantList\")",
@@ -531,10 +516,10 @@
 									"",
 									"",
 									"",
-									"maximumLenghts = [5000, 7500, 10000, 12000, 8000, 15000]",
-									"randomMaximumLength = maximumLenghts[Math.floor(Math.random() * maximumLenghts.length)];",
+									"lenghts = [5000, 7500, 10000, 12000, 8000, 15000]",
+									"randomLength = lenghts[Math.floor(Math.random() * lenghts.length)];",
 									"",
-									"pm.globals.set(\"randomMaximumLength-2\",randomMaximumLength)",
+									"pm.globals.set(\"randomLength-2\",randomLength)",
 									"",
 									""
 								],
@@ -559,7 +544,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-2}},\n    \"maximumLength\":{{randomMaximumLength-2}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-2}},\n    \"length\":{{randomLength-2}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -581,7 +566,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "5fa89de0-a5df-4e94-bf90-28881cb207f6",
 								"exec": [
 									"pm.test(\"starting-point - Valid geopoint\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -599,7 +583,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "24574e2a-08a5-4bb1-bec3-1e640dcda1e5",
 								"exec": [
 									""
 								],
@@ -624,7 +607,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"maximumLength\":{{randomMaximumLength-1}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-2}},\n    \"length\":{{randomLength-2}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -646,7 +629,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "4257c457-6d53-4ea8-a232-12e966320393",
 								"exec": [
 									"pm.test(\"starting-point - Valid geopoint\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -677,7 +659,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "7617c483-cf15-4483-9da4-1a0a952f5194",
 								"exec": [
 									""
 								],
@@ -702,7 +683,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-2}},\n    \"maximumLength\":{{randomMaximumLength-2}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-2}},\n    \"length\":{{randomLength-2}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -724,14 +705,13 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "d2f58bb7-3c9b-44e5-9e09-27d2acf6a436",
 								"exec": [
 									"pm.test(\"starting-point - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(400);",
 									"});",
 									"",
 									"pm.test(\"starting-point - L'erreur est expliquée\", function () {",
-									"    pm.expect(pm.response.text()).to.include(\"maximumLength\");",
+									"    pm.expect(pm.response.text()).to.include(\"length\");",
 									"});",
 									""
 								],
@@ -741,7 +721,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "31a63a5f-9d0e-48b4-9de3-cae33bcf2d68",
 								"exec": [
 									""
 								],
@@ -766,7 +745,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"maximumLength\":\"badValue\"\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"length\":\"badValue\"\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -788,7 +767,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "35c1c340-401e-4d86-9812-fe3040ee3639",
 								"exec": [
 									"pm.test(\"starting-point - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(400);",
@@ -805,7 +783,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "c01062b3-c8be-4da6-b4af-3616adcf2bbc",
 								"exec": [
 									""
 								],
@@ -830,7 +807,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":\"badValue\",\n    \"maximumLength\":{{randomMaximumLength-1}}\n}"
+							"raw": "{\n    \"type\":\"badValue\",\n    \"length\":{{randomLength-1}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -852,7 +829,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "628a0063-7f29-4ece-b7ee-9a2aebf0f3ef",
 								"exec": [
 									"pm.test(\"starting-point - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(400);",
@@ -869,7 +845,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "60730502-cf25-478b-b444-8a0daa91734d",
 								"exec": [
 									""
 								],
@@ -894,7 +869,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":[323],\n    \"maximumLength\":{{randomMaximumLength-1}}\n}"
+							"raw": "{\n    \"type\":[323],\n    \"length\":{{randomLength-1}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
@@ -916,7 +891,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "c6fb471c-a43f-40c8-8351-1ab3c05205af",
 								"exec": [
 									"pm.test(\"starting-point - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(400);",
@@ -927,7 +901,7 @@
 									"});",
 									"",
 									"pm.test(\"starting-point - L'erreur est expliquée\", function () {",
-									"    pm.expect(pm.response.text()).to.include(\"maximumLength\");",
+									"    pm.expect(pm.response.text()).to.include(\"length\");",
 									"});",
 									""
 								],
@@ -937,7 +911,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "c574bf60-b026-440e-b680-4f27a7a4ea12",
 								"exec": [
 									""
 								],
@@ -984,7 +957,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "5d207248-9110-4184-846b-00e6f033d11d",
 								"exec": [
 									"pm.test(\"parcours - Feature Collection Vide\", function () {",
 									"    var jsonData = pm.response.json();",
@@ -1071,7 +1043,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "a94c96da-53a9-47d0-8532-56d6e837e102",
 								"exec": [
 									"var run",
 									"var iteration",
@@ -1094,15 +1065,15 @@
 									"}",
 									"",
 									"targetRestaurantTypeVariable = \"randomRestaurantType-\" + run",
-									"targetMaximumLengthVariable = \"randomMaximumLength-\" + run",
+									"targetLengthVariable = \"randomLength-\" + run",
 									"targetStartingPointVariable = \"startingPoint\" + run + \"-\" + iteration",
 									"",
 									"restaurantType = pm.globals.get(targetRestaurantTypeVariable)",
-									"maximumLength = pm.globals.get(targetMaximumLengthVariable)",
+									"length = pm.globals.get(targetLengthVariable)",
 									"startingPoint = pm.globals.get(targetStartingPointVariable)",
 									"",
 									"pm.globals.set(\"parcoursRestaurantType\", restaurantType)",
-									"pm.globals.set(\"parcoursMaximumLength\", maximumLength)",
+									"pm.globals.set(\"parcoursLength\", length)",
 									"pm.globals.set(\"parcoursStartingPoint\", startingPoint)",
 									"pm.globals.set(\"parcoursNumberOfStops\", 10)",
 									"",
@@ -1146,7 +1117,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"maximumLength\":{{parcoursMaximumLength}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
+							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"Length\":{{parcoursLength}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/parcours",
@@ -1168,7 +1139,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "0f7f9b05-3b28-4e86-918a-421ddc2e5919",
 								"exec": [
 									"pm.test(\"parcours - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(400);",
@@ -1179,7 +1149,7 @@
 									"});",
 									"",
 									"pm.test(\"parcours - L'erreur est expliquée\", function () {",
-									"    pm.expect(pm.response.text()).to.include(\"maximumLength\");",
+									"    pm.expect(pm.response.text()).to.include(\"length\");",
 									"});",
 									""
 								],
@@ -1189,7 +1159,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "d2036e63-2907-46a7-a613-aaf557d08329",
 								"exec": [
 									"var run",
 									"var iteration",
@@ -1212,15 +1181,15 @@
 									"}",
 									"",
 									"targetRestaurantTypeVariable = \"randomRestaurantType-\" + run",
-									"targetMaximumLengthVariable = \"randomMaximumLength-\" + run",
+									"targetLengthVariable = \"randomLength-\" + run",
 									"targetStartingPointVariable = \"startingPoint\" + run + \"-\" + iteration",
 									"",
 									"restaurantType = pm.globals.get(targetRestaurantTypeVariable)",
-									"maximumLength = pm.globals.get(targetMaximumLengthVariable)",
+									"length = pm.globals.get(targetLengthVariable)",
 									"startingPoint = pm.globals.get(targetStartingPointVariable)",
 									"",
 									"pm.globals.set(\"parcoursRestaurantType\", restaurantType)",
-									"pm.globals.set(\"parcoursMaximumLength\", maximumLength)",
+									"pm.globals.set(\"parcoursLength\", length)",
 									"pm.globals.set(\"parcoursStartingPoint\", startingPoint)",
 									"pm.globals.set(\"parcoursNumberOfStops\", 10)",
 									"",
@@ -1264,7 +1233,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":[123],\n    \"maximumLength\":\"badValue\",\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
+							"raw": "{\n    \"type\":[123],\n    \"length\":\"badValue\",\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/parcours",
@@ -1286,7 +1255,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "f82a19fc-e9eb-47e1-ac42-5d9ed8286df0",
 								"exec": [
 									"pm.test(\"parcours - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(400);",
@@ -1307,7 +1275,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "324c5406-fe4a-46f8-bccc-c6c0754017f5",
 								"exec": [
 									"var run",
 									"var iteration",
@@ -1330,15 +1297,15 @@
 									"}",
 									"",
 									"targetRestaurantTypeVariable = \"randomRestaurantType-\" + run",
-									"targetMaximumLengthVariable = \"randomMaximumLength-\" + run",
+									"targetLengthVariable = \"randomLength-\" + run",
 									"targetStartingPointVariable = \"startingPoint\" + run + \"-\" + iteration",
 									"",
 									"restaurantType = pm.globals.get(targetRestaurantTypeVariable)",
-									"maximumLength = pm.globals.get(targetMaximumLengthVariable)",
+									"length = pm.globals.get(targetLengthVariable)",
 									"startingPoint = pm.globals.get(targetStartingPointVariable)",
 									"",
 									"pm.globals.set(\"parcoursRestaurantType\", restaurantType)",
-									"pm.globals.set(\"parcoursMaximumLength\", maximumLength)",
+									"pm.globals.set(\"parcoursLength\", length)",
 									"pm.globals.set(\"parcoursStartingPoint\", startingPoint)",
 									"pm.globals.set(\"parcoursNumberOfStops\", 10)",
 									"",
@@ -1382,7 +1349,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"maximumLength\":{{parcoursMaximumLength}},\n    \"startingPoint\":\"startingPoint\",\n    \"numberOfStops\":\"badValue\"\n}"
+							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"length\":{{parcoursLength}},\n    \"startingPoint\":\"startingPoint\",\n    \"numberOfStops\":\"badValue\"\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/parcours",
@@ -1404,7 +1371,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "24bc4da6-b646-4c15-a1e7-ec1910bd2761",
 								"exec": [
 									"pm.test(\"parcours - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(404);",
@@ -1412,7 +1378,7 @@
 									"",
 									"",
 									"pm.test(\"parcours - L'erreur est expliquée\", function () {",
-									"    pm.expect(pm.response.text()).to.include(\"maximumLength\");",
+									"    pm.expect(pm.response.text()).to.include(\"length\");",
 									"});",
 									"",
 									""
@@ -1423,7 +1389,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "6448fb88-e146-4b43-b7bc-dd41e3a4fa97",
 								"exec": [
 									"longueurCyclable = pm.globals.get(\"longueurCyclable\")",
 									"longueurCyclableImpossible = Math.floor(longueurCyclable * 1.15)",
@@ -1452,7 +1417,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"maximumLength\":{{longueurCyclableImpossible}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
+							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"length\":{{longueurCyclableImpossible}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/parcours",
@@ -1474,7 +1439,6 @@
 						{
 							"listen": "test",
 							"script": {
-								"id": "1536f635-6de5-48df-8f12-e44bc69fed8f",
 								"exec": [
 									"pm.test(\"parcours - L'erreur est attrapée\", function () {",
 									"    pm.response.to.have.status(404);",
@@ -1491,7 +1455,6 @@
 						{
 							"listen": "prerequest",
 							"script": {
-								"id": "96b5d9d2-c7de-42c1-8603-9d14b175f36b",
 								"exec": [
 									"var run",
 									"var iteration",
@@ -1514,15 +1477,15 @@
 									"}",
 									"",
 									"targetRestaurantTypeVariable = \"randomRestaurantType-\" + run",
-									"targetMaximumLengthVariable = \"randomMaximumLength-\" + run",
+									"targetLengthVariable = \"randomLength-\" + run",
 									"targetStartingPointVariable = \"startingPoint\" + run + \"-\" + iteration",
 									"",
 									"restaurantType = pm.globals.get(targetRestaurantTypeVariable)",
-									"maximumLength = pm.globals.get(targetMaximumLengthVariable)",
+									"length = pm.globals.get(targetLengthVariable)",
 									"startingPoint = pm.globals.get(targetStartingPointVariable)",
 									"",
 									"pm.globals.set(\"parcoursRestaurantType\", restaurantType)",
-									"pm.globals.set(\"parcoursMaximumLength\", maximumLength)",
+									"pm.globals.set(\"parcoursLength\", length)",
 									"pm.globals.set(\"parcoursStartingPoint\", startingPoint)",
 									"pm.globals.set(\"parcoursNumberOfStops\", 10)",
 									"",
@@ -1566,7 +1529,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":[\"typeDeRestaurantQuiNestPasDansLaBD\"],\n    \"maximumLength\":{{parcoursMaximumLength}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
+							"raw": "{\n    \"type\":[\"typeDeRestaurantQuiNestPasDansLaBD\"],\n    \"length\":{{parcoursLength}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/parcours",
@@ -1582,9 +1545,7 @@
 					},
 					"response": []
 				}
-			],
-			"protocolProfileBehavior": {}
+			]
 		}
-	],
-	"protocolProfileBehavior": {}
+	]
 }
