@@ -131,7 +131,7 @@ Le module ETL a pour rôle d'extraire les données externes et de les agréger d
 1. Proposer 4 questions qui utilisent des valeurs à une distance d'au moins 2 noeuds du cours boursier (inspirez-vous de mes exemples plus bas.)
    1. Zigne sodiac eau vs feu vs terre vs air ? (Voir [signe d'eau](https://pymongo.readthedocs.io/en/stable/api/pymongo/index.html#module-pymongo))
    2. Compagnie avec un "y" dans le nom de rue du siège social
-   3. Siège social "Proche" vs "Loin" en km de la bâtisse de son exchange
+   3. Siège social "Proche" vs "Loin" en km de la bâtisse de l'exchange ou sont transigées ses actions
    4. ???
 
 
