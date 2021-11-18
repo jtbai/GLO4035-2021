@@ -47,7 +47,9 @@ Afin d'avoir un échantillon intéressant, on désire avoir un total de
   * Résultats (1 page)
   * Analyse (2 page)
   * Conclusion (1/2 page)
+
 * Présentation d'au plus 15 minutes de votre application, présentant l'application et les conclusions de votre rapport
+
 
 ## Boiler plate (Code fourni mais non fonctionnel)
 [Code](./boilerplate.zip)
@@ -126,7 +128,7 @@ Le module ETL a pour rôle d'extraire les données externes et de les agréger d
 ### Étape 4 - Créer une vue transformée
 
 
-1. Proposer 4 questions qui utilisent des valeurs à une distance d'au moins 2 noeuds du cours boursier (inspirez-vous de mes exemples plus haut.)
+1. Proposer 4 questions qui utilisent des valeurs à une distance d'au moins 2 noeuds du cours boursier (inspirez-vous de mes exemples plus bas.)
    1. Zigne sodiac eau vs feu vs terre vs air ? (Voir [signe d'eau](https://pymongo.readthedocs.io/en/stable/api/pymongo/index.html#module-pymongo))
    2. Compagnie avec un "y" dans le nom de rue du siège social
    3. Siège social "Proche" vs "Loin" en km de la bâtisse de son exchange
