@@ -176,3 +176,9 @@ Le module ETL a pour rôle d'extraire les données externes et de les agréger d
 
 1. Obtenir les données
 2. Proposez 4 statistiques utilisant les cours boursiers permettant d'obtenir une conclusion quant aux questions posées précédemment. 
+
+### Étape 3 - Documentez vos expérimentations
+
+1. Générer vos résulstats automatiquement
+2. Conserver les résultats de vos calculs dans un répertoire dédié facilement identifible
+
