@@ -1,6 +1,5 @@
 # Projet science des données
 
-
 Ce projet présente les fondements de l'utilisation des bonnes pratiques lors de l'accomplissement de mandats de science des données en utilisant des données massives. Tout projet de science des données  commence avec une question qu'on désire répondre avec des données. L'étape suivante est de trouver ces données ...
 
 ## Struture générale d'un projet de data science
@@ -10,8 +9,21 @@ Ce projet présente les fondements de l'utilisation des bonnes pratiques lors de
 # Votre projet
 
 
-## Techonologie imposée
+## Question du projet
 
+Est-ce qu'il est possible de trouver des tendances sur des axes inhabituels dans les données boursières?
+
+Quel est le meilleur signe astrologique pour diriger une entreprise ? Quelle lettre doit se retrouver dans l'adresse d'un siège social? Quelle est la distance optimale entre un siège social et le Exchange? Toutes des questions auxquelles on ne désire pas vraiment de réponses, mais qui sont quand même digne d'intérêt (académique).
+
+Pour répondre à cette question, on aimerait utiliser les cours boursiers pour calculer différentes statistiques sur des indices composés de compagnie présentant ou non certaines caractéristiques. 
+
+Afin d'avoir un échantillon intéressant, on désire avoir un total de 
+* 15 compagnies,
+* Listées dans les indices NASDAQ, SNP500 ou NIKKEI, 
+* Provenant des secteurs d'activité finance, énergie ou technologie,
+* On désire évaluer des statistiques sur une période de 3 ans.
+
+## Techonologie imposée
 
 * Langage de programmation : Python
 * Technologie de déploiement: 
@@ -24,31 +36,24 @@ Ce projet présente les fondements de l'utilisation des bonnes pratiques lors de
   * Calcul scientifique: Scipy, Numpy, Pandas
   * Driver Bases de données: pymongo, neo4j
 
-## Boiler plate
+## Évaluation
+
+* Rapport scientifique d'au plus 10 pages de type journal
+  * Abstract (1/2 page)
+  * Introduction (avec problématique visée) (1/2 page)
+  * Revue de littérature sur les questions (1 page)
+  * Présentation de la méthodologie (4 page)
+    * Traitement des données (ETL)
+  * Résultats (1 page)
+  * Analyse (2 page)
+  * Conclusion (1/2 page)
+* Présentation d'au plus 15 minutes de votre application, présentant l'application et les conclusions de votre rapport
+
+## Boiler plate (Code fourni mais non fonctionnel)
 [Code](./boilerplate.zip)
 
 
-## Question du projet
-
-
-Est-ce qu'il est possible de trouver des tendances sur des axes inhabituels dans les données boursières?
-
-
-Quel est le meilleur signe astrologique pour diriger une entreprise ? Quelle lettre doit se retrouver dans l'adresse d'un siège social? Quelle est la distance optimale entre un siège social et le Exchange? Toutes des questions auxquelles on ne désire pas vraiment de réponses, mais qui sont quand même digne d'intérêt (académique).
-
-
-Pour répondre à cette question, on aimerait utiliser les cours boursiers pour calculer différentes statistiques sur des indices composés de compagnie présentant ou non certaines caractéristiques. 
-
-
-Afin d'avoir un échantillon intéressant, on désire avoir un total de 
-* 15 compagnies,
-* Listées dans les indices NASDAQ, SNP500 ou NIKKEI, 
-* Provenant des secteurs d'activité finance, énergie ou technologie,
-* On désire évaluer des statistiques sur une période de 3 ans.
-
-
 ## Module ETL
-
 
 Le module ETL a pour rôle d'extraire les données externes et de les agréger dans des vues permettant de répondre aux questions scientifiques.
 
@@ -154,7 +159,6 @@ Le module ETL a pour rôle d'extraire les données externes et de les agréger d
 1. Ajouter les données manquantes
 2. Ajouter les données modifiées (avec un nouveau `timestamp`)
 3. Recalculer les vues simples et transformées
-
 
 
 ## Module 2 - Calcul scientifiques
