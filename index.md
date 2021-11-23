@@ -3,9 +3,25 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 ## Prochain Live
 [Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
-[Après la classe](https://ulaval.zoom.us/j/65949059289?pwd=VXZQbkFUeHpmaUs5YXdnUG0xSVJhdz09){:target="_blank"} 
+[Après la classe](https://ulaval.zoom.us/j/61189987041?pwd=NGt6UWk5c0tWbHdvRFMzRXYvbXVHQT09){:target="_blank"} 
 
 
+
+## Semaine 13
+
+### Capsules
+  * [MongoDB - Exemple election](https://youtu.be/1DL6HCWDXpI)
+  * [DDIA - Fragmentation](https://youtu.be/KeOySr9pxqY){:target="_blank"}  
+  * [MongoDB - Fragmentation](https://youtu.be/PA47LIpuVds){:target="_blank"}  
+
+### Lectures
+  * DDIA: Chapitre 6 - **Fragmentation**
+    * Partition of Key-Value Data
+    * Partitioning and secondary Index
+    * Rebalancing Partitions
+  * DDIA: Chapitre 5:
+    * ~Leaderless: Sloppy Quorum~
+    * ~Leaderless: Detecting Concurent Write~
 ## Semaine 12
 
 ## Live
