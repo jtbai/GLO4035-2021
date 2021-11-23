@@ -20,8 +20,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
     * Partitioning and secondary Index
     * Rebalancing Partitions
   * DDIA: Chapitre 5:
-    * ~Leaderless: Sloppy Quorum~
-    * ~Leaderless: Detecting Concurent Write~
+    * ~~Leaderless: Sloppy Quorum~~
+    * ~~Leaderless: Detecting Concurent Write~~
 ## Semaine 12
 
 ## Live
