@@ -8,6 +8,8 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 
 ## Semaine 13
+[Semaine 12 - Elastic Search 2  (Code secret: 6.@UqK2W)](https://ulaval.zoom.us/rec/share/c4Hi_O67UcT6r36YvvlYMsqF000jiNEfdEuRjkzMNCvHnMXlfsQVOE2iXit9VO7n.lFgI4ILDTvNIhpF8)
+[Slides](avancement/Avancement%20Session%20-%20Semaine%2013.pdf)
 
 ### Capsules
   * [MongoDB - Exemple election](https://youtu.be/1DL6HCWDXpI)
