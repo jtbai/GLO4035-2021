@@ -15,15 +15,12 @@ settings = {
             "texte_normalise":{
                 "type":"custom",
                 "tokenizer":"standard",
-                "filter":["asciifolding", "lowercase", "mon_stemmer"]
-            }
-        },
-        "filter" : {
-                "mon_stemmer" : {
+                "filter":["asciifolding", "lowercase", {
                     "type" : "stemmer",
                     "name" : "light_french"
-                }
+                }]
             }
+        }
     }
 }
 

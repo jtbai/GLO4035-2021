@@ -28,6 +28,7 @@ Si nous n'avions pas accès à elasticSearch (ou Lucene), est-ce qu'on aurait pu
 
 # Live cette semaine
 
+* Quick Retour Exam 1
 * Retour ES1
 * Micro Labo 6
 * Retour évaluation du cours en mi-session
