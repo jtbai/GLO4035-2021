@@ -3,7 +3,7 @@
 # Les requêtes sont toutes indépendantes :)
 #
 # Encore une fois, vos réponses doivent s'imprimer sur une seule ligne sous le tag du numéro de question
-SERVER_HOST = 
+SERVER_HOST = ""
 es = elasticsearch.Elasticsearch(SERVER_HOST)
 
 #QTEST - Combien de documents sont retournés au maximum par requêtes?
