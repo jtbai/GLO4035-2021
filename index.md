@@ -14,7 +14,10 @@ Semaine 14 - Fragmentation
 
 ### Capsules
 * ~~[MongoDB - Fragmentation](https://youtu.be/PA47LIpuVds){:target="_blank"}~~
-  
+### Excercices
+* [ElasticSearch](devoir/devoir3.py)
+* [ElasticSearch - Corrigé](devoir/devoir3%20_corrige.py.py)
+* Jeu de données (monPortail / section Contenu et Activité / ElasticSearch)
 
 ## Semaine 13
 [Semaine 13 - Réplication  (Code secret: 6.@UqK2W)](https://ulaval.zoom.us/rec/share/c4Hi_O67UcT6r36YvvlYMsqF000jiNEfdEuRjkzMNCvHnMXlfsQVOE2iXit9VO7n.lFgI4ILDTvNIhpF8)
