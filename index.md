@@ -16,7 +16,7 @@ Semaine 14 - Fragmentation
 * ~~[MongoDB - Fragmentation](https://youtu.be/PA47LIpuVds){:target="_blank"}~~
 ### Excercices
 * [ElasticSearch](devoir/devoir3.py)
-* [ElasticSearch - Corrigé](devoir/devoir3_corrige.py.py)
+* [ElasticSearch - Corrigé](devoir/devoir3_corrige.py)
 * Jeu de données (monPortail / section Contenu et Activité / ElasticSearch)
 
 ## Semaine 13
