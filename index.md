@@ -3,7 +3,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 
 
 ## Semaine 14
-[Semaine 14 - Fragmentation  (Code secret: 4n3fHrq^)](https://ulaval.zoom.us/rec/share/cemEJ_BdeAiBe7vLoRtPEMxp6cCNCZ-W-ruxvnT64uD8ZbR-86en0IeQx31mrty3.lA-a4KwUE5Leszsa)
+[Semaine 14 - Fragmentation  (Code secret: 4n3fHrq^)](https://ulaval.zoom.us/rec/share/cemEJ_BdeAiBe7vLoRtPEMxp6cCNCZ-W-ruxvnT64uD8ZbR-86en0IeQx31mrty3.lA-a4KwUE5Leszsa)  
 [Slides](avancement/Avancement%20Session%20-%20Semaine%2014.pdf)
 
 ### Capsules
