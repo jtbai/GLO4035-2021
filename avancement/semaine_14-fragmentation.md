@@ -65,6 +65,7 @@ highlightTheme: "darkula"
   * Partionnement dynamique
   * Partionnement proportionnel
 * Automatic ou Manuel?
+
 ---
 
 # Présentation Exam Final

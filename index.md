@@ -1,15 +1,9 @@
 # Bases de données avancées - GLO-4035 et GLO-7035
 Ce site contient le contenu autre que les présentations powerpoints du cours
 
-## Prochain Live
-[Prochain Live](https://ulaval.zoom.us/j/61053004212?pwd=L2hKbG5Ma2VBMzFhaWxTQXFjcGVDQT09){:target="_blank"}  
-[Après la classe](https://ulaval.zoom.us/j/61189987041?pwd=NGt6UWk5c0tWbHdvRFMzRXYvbXVHQT09){:target="_blank"} 
-
-
-
 
 ## Semaine 14
-Semaine 14 - Fragmentation
+[Semaine 14 - Fragmentation  (Code secret: 4n3fHrq^)](https://ulaval.zoom.us/rec/share/cemEJ_BdeAiBe7vLoRtPEMxp6cCNCZ-W-ruxvnT64uD8ZbR-86en0IeQx31mrty3.lA-a4KwUE5Leszsa)
 [Slides](avancement/Avancement%20Session%20-%20Semaine%2014.pdf)
 
 ### Capsules
@@ -171,7 +165,7 @@ Semaine 14 - Fragmentation
 
 ### Live
 [Semaine 4 - Indexation (Code secret: C..mvJ.9)](https://ulaval.zoom.us/rec/share/xtf-CEyPWJhBkdMgTdMl3zK8N1_rahsyMO_dCVQVD9CXSpQtjcd9yPWyGomCyH1j.cNc4R6XkN8QsfDZq)  
-[Slides]()
+[Slides](avancement/Avancement Session - Semaine 04.pdf)
 
 ### Lectures
 * DDIA: Chapitre 2
