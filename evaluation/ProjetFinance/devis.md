@@ -169,7 +169,7 @@ Le module ETL a pour rôle d'extraire les données externes et de les agréger d
 ### Étape 1 - Obtenir les données de l'ETL
 
 
-1. Créer une classe qui se connecte à votre application (`/transformed_data?dataset=<str>&date=<isodate>`)
+1. Créer une classe qui se connecte à votre application (`/transformed_data/<str>/<isodate>`)
 
 
 ### Étape 2 - Lancer des calculs
