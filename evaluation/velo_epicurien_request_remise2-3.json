@@ -323,7 +323,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"length\":{{randomlength-1}}\n}"
+							"raw": "{\n    \"type\":{{randomRestaurantType-1}},\n    \"length\":{{randomLength-1}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/starting_point",
