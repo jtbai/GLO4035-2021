@@ -296,7 +296,7 @@
 									"",
 									"",
 									"lenghts = [5000, 7500, 10000, 12000, 8000, 15000]",
-									"randomlength = lenghts[Math.floor(Math.random() * lenghts.length)];",
+									"randomLength = lenghts[Math.floor(Math.random() * lenghts.length)];",
 									"",
 									"pm.globals.set(\"randomLength-1\",randomLength)",
 									"",
@@ -983,7 +983,7 @@
 									"",
 									"",
 									"pm.test(\"parcours - Retourne un parcours de la bonne longueur\", function () {",
-									"    var parcoursDesiredLength = pm.globals.get(\"parcoursMaximumLength\")",
+									"    var parcoursDesiredLength = pm.globals.get(\"parcoursLength\")",
 									"    var parcoursLenghtReel = 0 ",
 									"    var parcours = pm.response.json().features;",
 									"",
@@ -1117,7 +1117,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"Length\":{{parcoursLength}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
+							"raw": "{\n    \"type\":{{parcoursRestaurantType}},\n    \"length\":{{parcoursLength}},\n    \"startingPoint\":{{parcoursStartingPoint}},\n    \"numberOfStops\":{{parcoursNumberOfStops}}\n}"
 						},
 						"url": {
 							"raw": "http://{{host}}:{{port}}/parcours",
