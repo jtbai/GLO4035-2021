@@ -85,6 +85,7 @@ Ce site contient le contenu autre que les présentations powerpoints du cours
 * Intérêt de recherche
   * [Données](labo/labo_6/dataset.json)  
   * [Instructions](labo/labo_6/instructions.py)  
+  * [Corrigé](labo/labo_6/instructions_corrige.py)  
 
 ---
 
